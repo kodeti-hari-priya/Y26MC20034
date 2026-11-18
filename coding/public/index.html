@@ -1,0 +1,321 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Financial Transaction Fraud Detection</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #123b75, #1b4f91);
+            color: #ffffff;
+            min-height: 100vh;
+            padding: 30px;
+        }
+
+        main {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 30px;
+        }
+
+        p {
+            text-align: center;
+            color: #dceaff;
+        }
+
+        .panel {
+            background: #244f82;
+            border: 1px solid #75a9e8;
+            border-radius: 16px;
+            padding: 25px;
+            margin: 20px 0;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 7px;
+        }
+
+        input {
+            width: 100%;
+            padding: 13px;
+            border-radius: 8px;
+            border: 1px solid #75a9e8;
+            background: #f8fbff;
+            color: #102e55;
+            font-size: 15px;
+        }
+
+        button {
+            width: 100%;
+            padding: 15px;
+            border: 0;
+            border-radius: 9px;
+            background: #a5d1ff;
+            color: #102e55;
+            font-size: 17px;
+            font-weight: bold;
+            cursor: pointer;
+            margin-top: 18px;
+        }
+
+        button:hover {
+            background: #ffffff;
+        }
+
+        button:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+        }
+
+        #result {
+            font-size: 22px;
+            text-align: center;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .fraud {
+            color: #ff5555;
+        }
+
+        .legit {
+            color: #65e69a;
+        }
+
+        #details {
+            margin-top: 15px;
+            padding: 12px;
+            border-radius: 10px;
+            background: #173e6b;
+            display: none;
+        }
+
+        #details p {
+            margin: 10px 0;
+        }
+
+        .small {
+            text-align: left;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            body {
+                padding: 14px;
+            }
+
+            h1 {
+                font-size: 23px;
+            }
+
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<main>
+
+    <h1>🔍 Financial Transaction Fraud Detection</h1>
+
+    <p>Machine Learning Based Fraud Detection System</p>
+
+    <section class="panel">
+
+        <form id="form">
+
+            <div class="grid">
+
+                <div>
+                    <label for="amount">Transaction Amount (₹)</label>
+                    <input
+                        id="amount"
+                        type="number"
+                        min="0"
+                        step="0.01"
+                        placeholder="Enter transaction amount"
+                        required
+                    >
+                </div>
+
+                <div>
+                    <label for="timestamp">Transaction Timestamp</label>
+                    <input
+                        id="timestamp"
+                        type="datetime-local"
+                        required
+                    >
+                </div>
+
+                <div>
+                    <label for="location">Customer Location</label>
+                    <input
+                        id="location"
+                        type="text"
+                        placeholder="Enter location as in training data"
+                        required
+                    >
+                </div>
+
+                <div>
+                    <label for="payment">Payment Method</label>
+                    <input
+                        id="payment"
+                        type="text"
+                        placeholder="Enter payment method as in training data"
+                        required
+                    >
+                </div>
+
+            </div>
+
+            <button type="submit" id="detectButton">
+                DETECT FRAUD
+            </button>
+
+        </form>
+
+        <div id="result"></div>
+
+        <div id="details"></div>
+
+    </section>
+
+    <p class="small">
+        Prototype only: Predictions are model estimates, not a real bank
+        authorization or transaction-blocking system.
+    </p>
+
+</main>
+
+<script>
+
+const API_URL = "http://127.0.0.1:8000/api/predict";
+
+document.getElementById("form").addEventListener("submit", async (e) => {
+
+    e.preventDefault();
+
+    const out = document.getElementById("result");
+    const details = document.getElementById("details");
+    const button = document.getElementById("detectButton");
+
+    out.textContent = "Checking transaction...";
+    details.style.display = "none";
+    details.innerHTML = "";
+
+    button.disabled = true;
+    button.textContent = "PLEASE WAIT...";
+
+    const timestampValue = document.getElementById("timestamp").value;
+
+    const payload = {
+        amount: Number(document.getElementById("amount").value),
+
+        timestamp: timestampValue.replace("T", " ") + ":00",
+
+        customer_location: document.getElementById("location").value.trim(),
+
+        payment_method: document.getElementById("payment").value.trim()
+    };
+
+    try {
+
+        const response = await fetch(API_URL, {
+            method: "POST",
+
+            headers: {
+                "Content-Type": "application/json"
+            },
+
+            body: JSON.stringify(payload)
+        });
+
+        const data = await response.json();
+
+        if (!response.ok) {
+            throw new Error(data.detail || "Prediction failed");
+        }
+
+        if (data.prediction === "Fraud") {
+
+            out.innerHTML = `
+                <span class="fraud">
+                    🚨 FRAUDULENT TRANSACTION
+                </span>
+            `;
+
+        } else {
+
+            out.innerHTML = `
+                <span class="legit">
+                    ✓ LEGITIMATE TRANSACTION
+                </span>
+            `;
+
+        }
+
+        details.innerHTML = `
+            <p>
+                Fraud Probability:
+                <b>${data.fraud_probability}%</b>
+            </p>
+
+            <p>
+                Legitimate Probability:
+                <b>${data.legitimate_probability}%</b>
+            </p>
+
+            <p>
+                Model:
+                <b>${data.model}</b>
+            </p>
+        `;
+
+        details.style.display = "block";
+
+    } catch (error) {
+
+        out.textContent = "Error: " + error.message;
+
+        details.style.display = "none";
+
+        console.error("Prediction Error:", error);
+
+    } finally {
+
+        button.disabled = false;
+        button.textContent = "DETECT FRAUD";
+
+    }
+
+});
+
+</script>
+
+</body>
+</html>

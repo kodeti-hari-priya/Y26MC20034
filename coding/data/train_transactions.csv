@@ -1,0 +1,701 @@
+transaction_id,amount,timestamp,customer_location,payment_method,is_fraud
+b5bd578d-912b-462c-9bc7-926d537bade0,238.01,2025-02-13 15:47:26,Janetfort,Debit Card,1
+7bc3b36f-d60c-44b5-bced-f7fd8b15d297,202.43,2025-03-04 16:33:17,Wardberg,Digital Wallet,0
+9b738688-860e-4c47-baba-f1963608949a,85.02,2024-06-29 19:04:57,East Nicholaschester,Debit Card,0
+7859ee64-b884-42f1-a73d-144792a27df1,722.53,2024-10-06 22:06:27,Kellerberg,Digital Wallet,0
+9871aa55-e4b2-4f79-8097-de3e977352ce,385.71,2024-11-16 13:31:43,West Steveton,Digital Wallet,0
+e12f3660-2f28-4483-860d-7fcd666ea99e,898.16,2025-01-04 08:37:09,Wallshire,Debit Card,0
+de888657-789c-4d0e-9939-bf8ecd22727c,489.96,2025-02-06 15:57:57,Nicolestad,Credit Card,0
+e953ec68-4616-4047-89a3-2866f4e526e8,174.2,2025-04-16 02:53:31,Joshuatown,Digital Wallet,0
+5507c26c-ab20-4e7a-9eb0-1c29bc3a3bd9,817.25,2024-05-18 03:36:46,Lisaside,Credit Card,0
+8f2c2214-1d00-4c4f-b543-a2597f7e4fcd,549.68,2025-03-21 04:30:53,North Tiffanyhaven,Digital Wallet,0
+44fc92ca-66ea-444b-a1b5-95b41984bc1b,763.84,2024-06-14 11:09:29,South Roberttown,Bank Transfer,0
+0719fde0-70ed-4102-b265-fee5cbb93cb8,243.17,2024-07-03 00:20:38,Hunterside,Bank Transfer,0
+6a03e0e9-a541-4fe7-ad0a-97bd1e713b10,769.72,2025-03-20 00:44:25,West Belinda,Credit Card,0
+b41e70de-3b6f-41ab-b170-def7adfb7bbe,808.31,2024-08-15 05:31:29,West Cynthiabury,Credit Card,0
+a6a64233-dddd-4a87-9fd9-7d0b3c30b94d,590.33,2024-08-08 08:13:54,Chadmouth,Bank Transfer,0
+88d64a45-723b-4a38-8bef-62b24dc31002,728.49,2024-09-19 09:45:47,South Barbara,Credit Card,0
+c01a1b70-e5ff-4416-a641-8083973c6156,544.01,2025-04-16 10:40:41,Lake Elizabeth,Credit Card,0
+54d6edd4-1f81-41e3-b0cd-d9e37baefe17,163.77,2024-11-01 17:31:14,Andrewchester,Bank Transfer,0
+f6cfec6f-ba24-4c1d-952f-f0b9bd3a145e,150.77,2025-04-23 06:30:43,Atkinsonfurt,Bank Transfer,0
+532aa58c-d5fd-4548-a9e5-bf022bec27b6,47.4,2025-02-21 17:11:32,Hesstown,Bank Transfer,0
+cf3df345-eaf8-4d25-8444-1380d6af4308,877.5,2024-12-31 11:23:07,North Donnaton,Debit Card,0
+b9e30aac-7978-4d20-a41f-97cd67396093,672.22,2024-10-09 19:07:17,Emmafort,Credit Card,0
+c4f86562-d477-4f10-a4a9-0b8147619c47,748.51,2024-09-17 05:14:12,Lake Jenniferfort,Digital Wallet,0
+8df02a18-88c9-43cd-b655-58c04fb4e19d,772.55,2024-06-02 15:12:01,Reneeland,Digital Wallet,0
+15e061a2-e4c8-460e-b97a-5848b2d79ff3,555.65,2024-06-24 21:49:07,Bakermouth,Debit Card,0
+82d48547-907c-4fee-bf27-c0a3f6386f87,965.06,2025-04-13 11:36:48,Hallmouth,Digital Wallet,0
+73c60101-7478-4fc1-937a-d02d333af450,908.36,2024-07-25 04:26:48,South Crystal,Credit Card,0
+38efbb13-b664-4e84-8289-29fc7574ec13,989.97,2024-08-22 08:39:45,Natalieburgh,Debit Card,0
+5eb0fd4d-e44f-42ba-a3c6-0cc695bb75f6,246.71,2024-12-24 03:49:12,Kimberlyburgh,Bank Transfer,0
+93580c3a-5a38-4fc1-a22c-80d9d2134f0d,452.77,2025-02-23 07:30:55,Tonyaport,Credit Card,0
+d4a9e4a5-ba95-49b8-a9fe-bf4b0075faaa,182.7,2024-12-22 01:41:50,New Markborough,Digital Wallet,0
+bd9a738a-34c7-4ede-b1cd-742a12db044b,304.94,2024-06-28 23:26:05,Port Ashleyton,Credit Card,0
+ad2bca7d-ea4c-46f8-8eba-862cd49cdccc,822.71,2024-10-22 19:04:56,Christinashire,Debit Card,0
+36ba777f-544f-485b-9506-c80990b808fb,281.49,2024-12-04 10:27:01,New Alexandriaburgh,Digital Wallet,0
+61536f35-d540-4c5e-ba0e-907f66900c81,338.28,2024-06-04 03:38:40,Bakerside,Credit Card,0
+9afd6326-a98d-44a1-872b-34ab30f1918f,649.98,2025-01-30 07:59:26,East Lisa,Bank Transfer,1
+1ffbbfc3-2830-4294-806a-c01765221a87,738.3,2025-02-09 10:22:24,Jillstad,Credit Card,0
+e3401bcd-0df0-440b-b2f1-2087f18c1b98,464.23,2024-10-31 02:01:58,West Christopher,Credit Card,0
+5a400272-5b4d-460d-ad17-164b5991a582,71.5,2025-02-21 10:48:26,Port Jeffrey,Debit Card,0
+f234b478-416a-4a03-beac-40cbe012a53b,187.38,2024-09-09 05:48:06,Diazmouth,Credit Card,0
+f3609494-aea8-4cbd-8249-8748f3f27ffc,351.24,2024-05-06 09:51:32,New Emily,Debit Card,0
+6d8d4829-5644-462d-8ae3-e634304202be,722.54,2024-05-03 03:35:27,East Tina,Debit Card,0
+ce1747ab-74ea-46ba-99c1-367f6df26de8,321.46,2024-05-30 00:01:27,Cliffordfurt,Bank Transfer,0
+65197285-0744-452d-a751-2d92f23cb06f,599.06,2025-01-29 06:09:49,Chelseastad,Bank Transfer,0
+9dcd8837-a132-4683-8850-05b8d7c0470c,128.36,2024-08-03 13:45:23,Gonzalezland,Bank Transfer,0
+ccd86858-fd13-4ba7-93d1-6a781d4b4cd2,697.32,2024-07-05 08:06:03,Gambleport,Bank Transfer,0
+566ccde8-9edd-497b-b5d6-3bef6e4fb2cf,11.83,2024-11-05 23:09:13,East Fernando,Digital Wallet,0
+1c520bd5-49ab-4489-9bf7-6978deca15f5,905.48,2024-10-22 18:51:32,Garychester,Digital Wallet,0
+1199aca3-01dd-413d-827b-fe9fe30b5e3d,338.66,2025-01-09 13:32:53,West Rachaelhaven,Digital Wallet,0
+a366a568-3ad5-4b79-93cb-e7c2fdba238a,930.83,2024-09-03 22:53:17,West Peterton,Bank Transfer,0
+0585ab98-2068-41f3-88e1-30d146a59e38,265.94,2024-04-30 16:45:11,East Dianeville,Bank Transfer,0
+d0d90206-2bfb-4a0b-9df4-fc5d6fca7b1e,737.76,2025-04-19 07:08:44,Robertville,Digital Wallet,0
+e3331ab1-2758-4035-a418-b2afdf3e4485,349.52,2024-07-19 16:08:38,Veronicafort,Debit Card,0
+58bf4459-bbca-448e-a989-9d8b8a3ae08d,819.28,2024-11-25 16:40:27,Cookstad,Bank Transfer,0
+8ac5abac-c1a1-4158-8049-1230ab811092,616.23,2024-05-25 02:52:58,Weissbury,Bank Transfer,0
+914c7b4e-0591-49a8-bbea-09d50cec8375,191.5,2024-11-26 09:57:47,Adamton,Credit Card,0
+f5a72e7c-6a92-41e4-9d13-e86dacc8b160,863.24,2024-11-22 18:47:06,Knoxmouth,Credit Card,0
+8fb3bac5-81ba-4ed7-abcd-72f09267d745,76.06,2024-12-02 18:28:32,South Kathleen,Digital Wallet,0
+d9cd792d-348f-43ca-bc8a-d37a573984d9,607.94,2024-05-24 14:49:01,Hartmanberg,Digital Wallet,0
+78f081c6-64e8-48d5-92a2-788ca9a2261c,250.99,2024-10-28 03:20:45,Coleton,Digital Wallet,0
+8bede4ba-9d17-4093-8973-0be08d7463da,258.99,2024-07-22 21:52:39,West Jenniferhaven,Debit Card,0
+f87206bf-7e89-47d6-baf9-17b70174cf1a,438.04,2024-12-31 13:52:47,East Patricia,Debit Card,0
+b6431707-e328-40af-883d-5b9bb84575a7,503.22,2025-01-17 00:46:38,Lake Pamela,Credit Card,1
+8e8206fa-da12-4537-8ea5-528fbebe300d,392.85,2024-11-20 05:04:14,New Ruben,Bank Transfer,0
+e81d3110-a475-48ef-8a5a-fcf162068e1f,702.26,2024-05-01 22:46:00,East Jessica,Credit Card,0
+1116fac6-662a-4b30-81e2-aa4d33d63b4b,612.24,2025-02-10 14:12:13,West Julia,Digital Wallet,0
+31267628-a12c-4e5e-a347-09a77a74c670,758.09,2025-04-18 20:47:27,South Sydneyside,Debit Card,0
+5061003a-6936-46b6-84e9-2005081ac1a3,637.92,2025-01-28 22:17:34,Jamesborough,Credit Card,0
+d937e0e1-a139-4036-9044-5563b0484bea,102.68,2025-03-16 09:10:29,New Ronald,Debit Card,0
+270ffa9c-e06c-49fe-b3e0-0420afac5b93,439.53,2024-11-23 15:37:18,North Tarafurt,Debit Card,0
+7d4cfabc-bc02-466e-9c28-054ce43a2b77,523.54,2024-05-24 18:43:08,Saundershaven,Bank Transfer,0
+48e268eb-ebe1-492b-9267-57d9a2dec718,908.54,2024-06-12 21:10:49,North Carol,Bank Transfer,0
+868f4040-f2e3-476c-87bc-fb6fd161ee1d,868.6,2024-05-29 15:44:02,Erictown,Credit Card,0
+c0e0babb-8ed6-4307-a851-48e1da7a130c,282.75,2025-02-19 21:31:55,Traviston,Debit Card,0
+e149b596-3ea2-48eb-a96e-30995e65f1ed,413.21,2024-08-03 23:05:39,Sherrimouth,Debit Card,0
+d46ddc2b-8a4d-46ec-b02a-7e25cb01a162,62.02,2024-08-29 10:26:24,Andersonburgh,Debit Card,0
+6ef68e8e-5e29-4c9b-a030-744cdfe1d842,141.72,2024-08-19 09:50:37,West Lisa,Credit Card,0
+3f7a0dce-6f6f-4042-b222-00bd5991d5ec,432.23,2025-04-19 06:40:27,West Michael,Digital Wallet,0
+b559cd97-02be-46a9-9b64-ebe1e98dd699,679.42,2024-09-03 21:11:39,Freyland,Digital Wallet,0
+951c758a-7aca-452a-b6eb-1803bc75b2a9,326.01,2025-04-26 06:41:52,East Brad,Digital Wallet,0
+fc666b21-4614-405e-82a3-5fb3a2176aad,750.86,2025-01-18 01:03:16,Martinmouth,Digital Wallet,0
+c87cc329-105c-4c32-a135-41a6ffd672d3,929.77,2024-08-08 15:02:46,Alexanderfort,Debit Card,0
+d4dc7372-e2f3-44be-8dfb-05b5809d37c1,481.66,2025-04-03 08:10:57,Sharonton,Debit Card,0
+19e28a18-55fc-4a43-a1c0-b8784ac812cc,761.86,2024-05-01 19:20:37,Smithland,Digital Wallet,0
+3701022d-65e0-4e57-a33e-662d9682ba4d,635.46,2025-04-24 08:57:09,Michaelport,Digital Wallet,0
+90c67ed7-e599-4fb2-9a34-a3f154175c1f,566.84,2024-08-15 13:25:33,Kimberlyview,Digital Wallet,0
+79283a0e-f2ff-4b85-bffb-207d962e8eb6,16.44,2024-11-07 09:14:22,West Vanessahaven,Bank Transfer,0
+be39659b-6dc8-46a3-88bd-9981fc4b058d,342.74,2025-02-20 13:37:53,Ryanport,Credit Card,0
+0b53993c-d991-4ee7-bf20-941318594e26,213.13,2025-04-20 15:51:51,Lake Apriltown,Bank Transfer,0
+738db1b8-5789-4b3c-9bba-e87927cd8756,463.07,2024-06-07 14:01:18,Martinezfurt,Debit Card,0
+e0102ffe-f944-4911-810a-42fdbfd31edc,58.5,2024-07-23 07:31:49,New Mary,Digital Wallet,0
+da438c4f-bdfe-401f-aaa4-4e394f6aa6fd,13.14,2024-06-06 13:12:29,Lake Cynthia,Bank Transfer,0
+ea6a2454-7a52-44c6-a6c7-57f1e5f6cf89,583.81,2024-05-02 14:05:58,North Shannon,Debit Card,1
+a2f18a06-63a4-4a03-92ac-1d98639b3903,318.69,2024-05-11 20:10:39,Leonardstad,Digital Wallet,0
+aaef4903-351a-4ef6-a107-b1e63c0efca2,645.83,2024-07-05 04:13:43,Dixonview,Bank Transfer,0
+97108b8b-bb0a-40c1-8abe-81c071fbd75e,140.97,2025-03-12 13:10:17,Patelview,Debit Card,0
+3e9cab13-2514-4bce-a575-3c989ae60939,52.43,2024-10-06 05:28:28,Patrickfurt,Debit Card,0
+8ec806ec-853d-45f5-ad30-aaea4acc8b64,659.27,2025-01-03 02:10:30,Alanmouth,Bank Transfer,0
+ca5844ba-f311-41c6-b1a4-5a515609eaab,102.02,2025-02-25 21:21:57,East Katelynmouth,Digital Wallet,0
+d816ec92-5794-4550-abea-5d5c903de7c1,632.63,2025-04-25 17:38:47,Lewisville,Digital Wallet,0
+fae54f04-6858-4dd5-bd82-1aa1ac1c1314,512.17,2024-10-28 17:09:08,Jessicaland,Credit Card,0
+dd9a6a17-aed8-4622-8594-d705799a6cce,44.12,2025-01-11 19:20:13,East Martin,Digital Wallet,0
+e5ac9b27-5ffc-4c04-ae6c-8c7aed683683,47.92,2025-01-08 12:52:51,Christopherchester,Digital Wallet,0
+39d209b6-cab6-478e-9ee1-579d5d7d0d62,92.11,2025-03-18 00:54:41,Hamiltonborough,Credit Card,0
+a47da323-4f73-4de8-9675-62b8cc6c3460,74.72,2024-05-28 02:39:28,Davidsonmouth,Bank Transfer,0
+d6c07b93-36d8-44ce-a9a5-74d96eda04b1,649.56,2024-05-13 03:10:54,Nicholeton,Debit Card,0
+063b6ed8-74a5-4d2c-9cd3-adc890a8298f,644.36,2025-01-05 23:36:46,Ashleyhaven,Credit Card,0
+e3258b2d-3aec-4db4-94e4-219bbc0e3801,35.35,2025-01-25 22:36:02,Robinburgh,Credit Card,0
+1bdbbb2e-aa99-48ba-b198-63e4c41e0823,374.9,2024-08-19 19:33:14,New Eduardotown,Bank Transfer,0
+14ca18a3-62e4-4474-a618-f63f39756bdf,177.21,2024-05-05 17:12:16,Devontown,Credit Card,0
+75c573d8-360d-4d84-a008-8eb37b17a397,536.56,2024-08-08 22:33:07,North Edwardside,Digital Wallet,0
+564b6573-d7e8-4c9f-bff1-be23b8782802,514.72,2024-09-13 00:46:42,Rushside,Bank Transfer,0
+2bd1eeb2-8695-460a-adcd-7856d71e5aa3,552.35,2024-09-21 17:06:13,Monicaport,Credit Card,0
+8bd24073-125c-456d-ae8c-0ada9732b506,750.21,2024-11-27 10:35:00,Royland,Digital Wallet,0
+9d204b87-f497-4109-8bc8-c7e9ef98187c,547.16,2024-11-03 09:10:46,East Rickyburgh,Digital Wallet,0
+0a2dec81-e4c7-4fbc-987e-db7cca8eff0f,729.28,2024-09-19 21:46:37,West Jeffery,Digital Wallet,0
+a7e40b79-c359-4338-a7d4-ac5e04598bbf,532.58,2024-07-30 05:38:00,New Kim,Bank Transfer,0
+e7ecdddf-c30f-412c-a91d-db4ac435cb75,713.64,2024-12-05 13:34:38,Port Stacyburgh,Digital Wallet,0
+69745285-9fde-4aa1-bf1b-63c6a7431438,511.83,2025-04-19 02:22:05,Danielchester,Bank Transfer,0
+468110b4-2eb8-413a-9029-453819dddf33,386.72,2025-03-12 08:07:34,Cainhaven,Digital Wallet,0
+1ed0b498-ec0b-419d-9ef8-fc82177ffd2e,147.93,2025-02-16 18:15:15,Boothview,Credit Card,0
+635b7a05-9480-4a51-8fc2-f0669505ad02,864.86,2024-08-10 15:42:43,New Michaeltown,Credit Card,0
+bb745e8c-6a09-40e6-bd79-fbe9d22bf5d6,969.94,2024-06-21 18:45:52,Jeremyborough,Credit Card,0
+5ae6c74e-803f-4942-87a3-10e9b6026ba6,502.69,2024-07-31 17:30:15,Port Pamelaborough,Credit Card,0
+ad33b275-6a0a-4a08-a1a7-ab300e57d49b,161.52,2025-01-17 11:32:40,Reyesshire,Bank Transfer,0
+bd42b1fa-0bfe-423b-ba45-ef4bd5680124,751.12,2025-04-13 06:26:35,East Stuartmouth,Digital Wallet,0
+9df7f09f-11f9-4acd-a8ea-78c6e337d740,452.99,2024-11-29 01:12:08,Shannonmouth,Debit Card,0
+d3f0b9f5-e1d8-4b70-9c67-909bc8e5c261,744.2,2024-11-14 13:41:34,Hayesmouth,Credit Card,0
+98cdd6cf-a863-41ff-8b76-551c5407a71a,892.78,2024-06-08 12:52:15,South Julie,Digital Wallet,0
+0ab3853e-e572-4758-9dd4-48b20f35e858,683.32,2024-08-11 22:55:54,Smithshire,Bank Transfer,0
+933b8ac2-bbf8-4a02-b7b1-02b0644e3e14,514.48,2024-11-12 09:06:16,Lake Dana,Debit Card,0
+a274df3a-419c-4380-90c2-22c5b1b06d5e,600.92,2024-05-09 15:11:00,Frenchside,Debit Card,0
+960b723e-76db-4d98-8e6e-e65eb3ad6d84,975.88,2024-05-05 02:52:12,Rogerview,Credit Card,0
+c2994af0-63b6-46e7-854b-236363d6ef95,493.03,2024-05-28 21:10:23,South Cindyview,Digital Wallet,0
+8e86004a-6fae-4766-b424-6e1801ed7d06,791.79,2024-08-18 02:41:33,Kevinside,Credit Card,0
+37ebc705-fd06-4b29-b149-eec318870863,902.65,2024-08-19 21:12:04,Lake Heatherburgh,Bank Transfer,0
+a67afe58-6b66-4104-a432-4d4f65ea2f19,503.18,2024-09-10 08:10:34,Diazstad,Credit Card,0
+0df1290d-2af0-4071-bff0-a73a8ff65e54,295.15,2024-06-15 22:03:46,Pereztown,Credit Card,0
+57e2f7ca-5cd7-48fa-87ae-ed9c2516c576,119.05,2025-03-28 14:59:53,Lindaside,Debit Card,0
+da4e6180-0160-4ad3-b391-f2319ad98ecd,795.47,2024-11-28 05:30:14,Davidborough,Credit Card,0
+bdcbbf1e-0699-48ca-a3f8-95683622ca96,851.29,2024-09-02 18:15:53,Heatherstad,Digital Wallet,0
+a287d434-641f-4796-9852-c1c78a2855a0,611.84,2024-12-06 08:11:07,New Keithbury,Credit Card,0
+37b1250a-c7c1-4e47-8f4e-15779b85663f,156.84,2024-08-22 23:07:15,Davishaven,Digital Wallet,0
+6787aba5-81ee-463f-ae33-0bed2dc3a5fc,329.42,2025-03-09 07:17:02,North Rebeccamouth,Debit Card,0
+f1a831d7-b084-4238-9574-a0bce94026cf,242.61,2024-07-11 09:30:07,Reidhaven,Digital Wallet,0
+07dce06c-a24b-4172-aeac-633af5d6317a,990.06,2024-05-14 14:03:24,South Cindytown,Bank Transfer,0
+da824c71-f618-4c8c-ba14-ae11a9306eab,651.77,2025-02-27 01:20:41,Rhodesborough,Credit Card,0
+c2db0d7f-cc85-4608-a607-f9603cd867d6,632.67,2024-11-09 18:53:38,Lake Darrell,Credit Card,0
+7fdd5af6-ef63-45a8-b0a3-23f2bc3f32b5,741.38,2024-05-03 23:11:45,Lake Aaron,Digital Wallet,0
+e67dca96-d579-4e6e-b373-5621b9868631,108.78,2024-09-27 10:07:19,West Saramouth,Digital Wallet,0
+9eff9979-1f5b-4fa4-844b-54065116d39e,117.78,2025-03-09 00:07:51,Port Jeremyside,Bank Transfer,0
+ba6f6229-359d-4030-89e4-0323d7e69cc1,222.89,2024-12-02 12:45:49,East Patrickview,Credit Card,0
+8e006953-a9ad-4c9c-812a-3e9183a049a5,891.25,2024-06-23 08:01:37,South Sarahburgh,Bank Transfer,0
+1c5c4087-c7e2-4554-96fc-26d275423f8f,520.79,2024-12-01 07:57:42,Haynesport,Debit Card,0
+869f9b2e-2a57-4bf8-b546-099412369d0d,269.97,2024-12-15 07:03:11,Haleberg,Debit Card,0
+237ff5ad-ae53-4b5c-9431-b303f4e3c283,620.45,2024-08-09 00:51:48,Mercerton,Credit Card,0
+48432143-2901-4fde-82f2-7330d005b3a3,268.8,2025-02-17 10:59:40,Victortown,Credit Card,0
+e22a9c05-1921-4e0e-bc02-5984186f5a69,953.97,2024-07-03 12:15:05,Paulville,Digital Wallet,0
+afdaeeb6-2ed8-4bfc-9c18-8bbfbac8c417,393.05,2024-09-14 10:29:08,East Tracy,Digital Wallet,0
+a893bac8-eaee-4a2e-8b7a-2246075b8f09,199.52,2024-09-11 07:16:55,Charlesport,Digital Wallet,0
+9341181b-f983-4b3d-b970-ed083e93c1f5,399.6,2024-05-18 03:21:32,New Beth,Digital Wallet,0
+33b06a3f-ff32-4d15-934c-24b09adcb7be,594.0,2025-03-17 18:03:25,New Brittanyville,Debit Card,0
+3b087986-2876-4a7b-99a8-01f684545506,920.95,2024-09-28 04:20:23,Curtischester,Bank Transfer,0
+8769ca41-6fdb-4ca9-94b0-3b957602b273,74.97,2024-09-06 00:42:58,South Brian,Digital Wallet,0
+063b4e45-9b04-4871-8144-12bb5b3ddb7d,279.37,2025-03-12 22:52:52,New Annetteburgh,Digital Wallet,0
+f6068601-e558-4562-95a7-2331c2f75f8e,962.69,2025-01-14 04:46:04,South Bradley,Credit Card,0
+556393e6-3049-4850-b5ec-d2c311d067ed,196.79,2025-01-30 20:47:15,North Lindsey,Digital Wallet,0
+3caeda86-978c-4496-a3b1-1939d904e22e,376.88,2025-04-10 17:49:29,Debrafurt,Bank Transfer,0
+2d27b3a1-014c-4701-8737-9b9fb30e4e20,502.01,2025-02-27 10:27:54,Port Michaelaside,Credit Card,0
+6e42db58-7564-4afc-bd06-9d78c52763ae,115.72,2024-08-25 21:18:23,West Louistown,Bank Transfer,0
+5e693d6e-bdd6-4bb7-98ed-9989fa3353d7,322.76,2024-09-30 07:56:26,South Elizabethport,Bank Transfer,0
+26a12d4c-ca40-4742-8b86-0065fbed9a00,118.63,2024-06-18 06:53:28,Port Michelle,Credit Card,0
+10ca710f-0519-42d1-a7ed-996ccd9c469e,660.54,2024-07-17 15:23:25,Port Shaun,Debit Card,0
+f59ea5a1-a79f-4c4a-b883-b3bd354a37f1,633.9,2024-06-02 11:22:10,South Kirstenland,Digital Wallet,0
+dc1f80fa-34b8-4b14-891f-cce7b38b6f08,389.81,2024-06-29 00:47:51,Amandahaven,Debit Card,1
+49b25725-60f8-43c5-b463-f5d8a1651a5f,876.78,2024-05-06 05:21:06,Burgessborough,Credit Card,0
+571375a3-da1f-4aa1-8f63-6ecc1ba3481c,890.12,2024-05-28 07:58:32,Robertshire,Debit Card,0
+bedfe900-6185-438a-ba1b-c37379e8b3cc,368.42,2024-08-03 12:28:13,New Emily,Credit Card,0
+d4208386-a344-428a-9308-2c9a8f5fcd79,72.12,2025-01-06 15:46:11,Lake Whitneytown,Debit Card,0
+46ca408a-e2ad-4d04-80a5-6b99b9a1aba1,6.52,2024-12-25 12:05:52,South Dennis,Bank Transfer,0
+33346ce0-00f1-4fe0-b676-15c7ba8bb804,603.55,2024-05-22 22:24:54,West Deborah,Credit Card,0
+86461cfe-8b48-4ac0-ba2c-4f5a78640803,397.79,2025-01-10 08:29:40,Lesliechester,Credit Card,0
+3f21370b-a06d-492e-b8cb-426bb446532f,324.36,2025-01-09 21:09:05,Richardside,Bank Transfer,0
+1eeec6b2-71bf-48db-ad36-ecd58a5eebde,137.68,2024-06-08 19:21:04,West Stephanieland,Credit Card,0
+c70ea642-682e-4e3b-a1ba-dab2260d6f4b,466.13,2024-05-18 10:46:53,Robertfurt,Digital Wallet,0
+603ea0f7-1553-42b3-9b62-66137b4f81a0,278.1,2024-05-17 07:45:30,East Benjamin,Bank Transfer,0
+0eff4aa4-a8d8-43aa-9f3e-503bfdd2451f,312.4,2024-07-22 10:30:57,Brianmouth,Debit Card,0
+2088e233-1f53-4806-b71e-3b94b16a6240,963.26,2024-08-07 04:46:39,Austinborough,Bank Transfer,0
+7e887032-7a24-43d3-b121-266b73065168,86.26,2024-12-23 03:42:55,Lake Traciton,Bank Transfer,0
+d5285573-43ab-47b3-b046-3d81ed35a8b1,323.03,2024-09-12 02:56:03,Villarrealstad,Credit Card,0
+7ce77b7d-2728-49ff-afe1-48b9a490fa0c,424.8,2024-10-17 04:32:10,South Melissafurt,Debit Card,0
+380207ff-f4ab-4eda-aab6-26ca0d069a5c,114.12,2024-07-05 03:48:03,Jeffreyburgh,Bank Transfer,0
+2aeba2c3-438e-4229-9a14-a661c4e81172,541.09,2025-03-01 22:59:02,Susanborough,Digital Wallet,0
+1986df46-65b1-404d-8e3c-a3e7bf8f112b,561.72,2025-03-01 13:21:30,Roberthaven,Debit Card,0
+b0812e37-88e1-438c-ba50-219cffc6257e,140.94,2025-02-19 21:30:58,Lake Victoria,Debit Card,0
+bea1324f-212c-47ef-b149-cf2d76f053f2,228.71,2024-12-13 06:39:44,Edwardsport,Debit Card,0
+14ea15b3-8e8d-4630-869f-0d8c240c874a,520.64,2025-02-24 18:29:41,Port Kevin,Bank Transfer,0
+6753b3f8-49a8-4291-a1a1-9c2304f629d7,516.78,2024-12-06 05:31:52,New Michael,Debit Card,0
+df53c2e9-3ff8-4b4b-9df9-786b7e634e86,412.43,2024-09-30 19:31:25,Port Kellyport,Bank Transfer,1
+d9138f74-b5cb-4540-8330-f1ad8c8ca929,896.87,2024-09-23 07:17:46,Debraburgh,Bank Transfer,0
+1c282546-28e0-45df-b386-91b50124678b,932.19,2025-04-15 05:01:23,East Robert,Digital Wallet,0
+bd78577a-d988-4804-a09a-fc90eae5179b,924.77,2024-10-29 07:11:11,Robertfort,Digital Wallet,0
+a373ea23-b849-4829-8d95-c6e3c1a911d7,587.25,2025-03-25 23:50:32,Bauermouth,Bank Transfer,0
+a670ebc7-704c-47f6-a681-d6c990371dc2,720.32,2024-11-05 21:40:39,Westbury,Digital Wallet,0
+46561fd3-d443-42dd-9f7f-79193ba914b7,59.03,2025-02-15 12:34:27,South Steven,Bank Transfer,0
+3bf9eaac-847e-48f3-8594-732063464926,887.33,2025-01-23 00:21:37,North Anthonyberg,Bank Transfer,0
+1d15fa4e-f3d9-4663-9536-b00bbd7e3f8c,665.37,2024-10-08 02:12:36,Anntown,Digital Wallet,1
+164b06c5-2163-4280-8b4a-fdd93cc536a9,611.01,2025-04-15 23:37:22,Willieburgh,Debit Card,0
+3c10191d-d0c7-4835-8940-7302602753df,280.7,2024-11-09 00:52:56,Donnamouth,Debit Card,0
+69dbcab5-cab7-4770-8783-7e92fd3ffb84,369.54,2024-10-10 09:31:50,Vargasbury,Debit Card,0
+978dff43-2174-4acc-9b8b-35d366c4e008,325.86,2024-11-06 00:33:32,East Cynthiaburgh,Credit Card,0
+d8c6cee8-238e-488d-97ab-67b0352d074b,263.0,2025-02-02 10:13:59,Lowerymouth,Digital Wallet,0
+10650ade-2c96-41cc-a6c8-31be4dbf0207,671.9,2024-12-04 00:48:39,Port Linda,Digital Wallet,0
+206a7f50-a24f-453e-a700-92da45591f25,853.16,2025-02-27 11:46:29,Jacobston,Credit Card,0
+d78a6b39-3517-462a-bae7-401ec71a0a2c,861.92,2024-06-18 19:47:17,Williamsport,Bank Transfer,0
+ee5522a3-b03c-4b3f-9100-ff8f802c0f21,969.91,2024-12-30 00:24:12,Lake Christopherburgh,Debit Card,0
+870cae31-16a9-4e37-a9b9-026d47b39cd1,663.84,2024-06-19 15:45:34,North Jeremyfurt,Bank Transfer,0
+8da977db-a539-4439-90a9-0e46fcc692d4,664.01,2025-02-25 19:50:08,North Melissachester,Bank Transfer,0
+b36aeed6-e70d-4bad-bb01-a0131b4c58fc,428.11,2024-07-29 14:04:03,Gomezburgh,Debit Card,0
+8749624c-77d8-4b2b-bf4f-bf177cda3f26,636.77,2024-09-22 05:36:25,Rogersstad,Credit Card,0
+c052f885-8436-4cda-9ced-058b026c6408,474.7,2024-07-15 22:47:16,South Barbara,Bank Transfer,0
+4c527ca0-e5d7-4ea3-bb6b-b0fa32d5a2bb,520.55,2024-10-11 07:07:02,North Stephen,Digital Wallet,0
+f12722ca-142f-4a3b-94c2-35ab850da155,629.31,2025-03-04 11:59:56,Richport,Debit Card,0
+44672bfe-55dc-443f-a848-41a92739d9af,962.48,2024-12-02 08:17:18,New Kimberlymouth,Bank Transfer,0
+82564f83-d92f-49b3-8a8a-93843aa6143c,286.43,2025-01-08 12:14:28,Alexanderton,Bank Transfer,0
+5925a302-bffb-4d2b-af43-5f9d69af33ec,642.78,2024-10-16 02:47:02,East Amyview,Digital Wallet,0
+9e1441ee-b29b-4d62-95f2-fea5caeb9e7a,110.94,2024-12-24 13:33:04,Phillipsborough,Credit Card,1
+a21c6fda-74c0-42d7-a51f-713d3ab8475e,401.36,2024-12-21 23:43:16,Pattersonmouth,Debit Card,0
+c9b60ced-3852-412a-be1b-1eb8ce8bb8ac,440.71,2024-05-05 07:56:41,Steveshire,Digital Wallet,0
+1a4dcf5e-8c1b-4a55-b645-2d309f0c61e8,789.83,2024-09-03 02:37:41,Dillonberg,Digital Wallet,0
+d53843f9-985f-4188-921b-46123a24e8ea,279.31,2024-10-11 14:56:23,New Stacey,Credit Card,0
+94e5d625-65f1-4857-bbc8-5be4fb47f4f8,114.44,2024-07-11 16:18:34,Craigburgh,Bank Transfer,0
+63fc780c-6060-4993-9de3-1d6ce0e54bfa,925.64,2024-08-20 22:51:25,Jonesville,Digital Wallet,0
+dc77d413-cfbc-419d-9081-4529d110b1e3,250.04,2024-08-10 08:47:20,New Patrick,Bank Transfer,0
+c856c03e-01de-452a-91ce-96201c3fe4b1,813.09,2024-08-12 19:29:58,Hillville,Debit Card,0
+103c76a7-fd3c-42a4-9009-8a7b058750f7,271.47,2025-04-15 16:20:34,Graceshire,Debit Card,0
+6bc40b88-1522-4a4a-aaa6-b21e05028040,14.08,2024-05-31 14:33:16,Lindsaytown,Credit Card,0
+066666a5-d619-4c5a-931d-07ed392de7c7,986.9,2025-03-13 08:03:29,Justinfort,Digital Wallet,0
+3fccf23c-084e-4e61-801b-432cd76f57c4,26.36,2024-09-21 08:12:21,Richardsmouth,Bank Transfer,0
+01be9ebb-7f07-4d0f-b5f7-8c08671b6083,65.99,2024-09-24 23:54:44,Jeffreymouth,Digital Wallet,0
+cb10d7cd-be5a-497d-9d43-aaf96e65355a,293.85,2024-07-04 08:18:12,Brandonview,Debit Card,0
+0a81a3a6-3884-4008-bc6b-2b1f11e0fcca,384.51,2024-05-17 15:24:49,Floresmouth,Credit Card,0
+b203fe84-d66e-415d-99a8-ec1427f56bee,936.22,2024-07-21 03:45:00,North Patriciaton,Digital Wallet,1
+48dc172c-6a0c-43cd-a545-aec5765ff914,207.21,2024-09-12 09:27:48,North Melanieton,Bank Transfer,0
+e66ece86-6cf4-4646-835f-6a8e448c2e55,21.56,2024-08-28 05:26:26,Monteschester,Digital Wallet,0
+e3303f5b-0023-47a0-abf5-60256fdd397c,524.99,2024-08-04 07:25:34,Kevinmouth,Digital Wallet,0
+e86c96d8-ccab-49f4-8d5a-e01a07029e1a,40.27,2025-03-04 00:05:46,New Robert,Bank Transfer,0
+4374a120-4d86-40ce-b3fa-205d9b5cef55,441.32,2024-09-30 03:08:32,Jasonbury,Digital Wallet,0
+f308308b-cd33-4079-b355-26a08fbb02c1,672.03,2025-03-20 20:30:38,North Jillfort,Bank Transfer,0
+a1fc0251-2ab2-4488-9fd0-a92de3ef8d08,919.94,2025-02-10 03:25:49,Port David,Debit Card,1
+b74542af-42fa-4fb8-8d86-62aebb2f0e38,558.85,2025-01-09 08:02:23,West Vanessaport,Bank Transfer,0
+926148b7-b51f-4ce1-8da6-5e4f3076dde5,401.45,2024-10-31 10:08:35,North Jacqueline,Credit Card,0
+918cdd0b-68e4-4115-8ad8-1d272af4dd87,474.0,2025-03-22 01:01:23,North Francisco,Digital Wallet,0
+80e3f6e2-3f3b-46ce-9436-8064c6d06805,914.93,2025-01-04 11:39:04,Patrickberg,Debit Card,0
+d1688813-5805-4c24-8ddf-40c799c0d617,213.75,2025-04-03 12:52:08,Christensenville,Bank Transfer,0
+0a3af439-1cb0-4dc6-982b-d0ecd85c1162,446.56,2025-03-14 05:10:09,Campbellland,Bank Transfer,0
+b85c76ca-db70-48bd-bab1-8b778f647afd,845.03,2024-11-30 02:58:38,Jenniferville,Digital Wallet,0
+bb040f54-33d4-4162-9f2c-49427b2e9809,591.24,2024-11-14 16:15:41,Warrenside,Credit Card,0
+02798f57-1edf-47da-8ee8-ba7f1fbaa18e,492.12,2025-01-04 15:24:46,Johnsonfort,Debit Card,0
+36e7a48a-666c-41cb-9e9a-608dbfd4a98d,249.24,2024-08-09 02:50:19,East Annaview,Digital Wallet,0
+ed77e328-0d5f-449b-ab90-5f5eab816b72,398.77,2024-09-11 23:31:41,Moralesland,Bank Transfer,0
+863c1383-d64d-44fa-a61f-8bf2f1ba7c4f,397.15,2025-03-06 23:40:44,Dickersonview,Credit Card,0
+070da361-e459-443b-97ba-d565423b6914,145.75,2024-11-07 14:19:25,South Melanie,Credit Card,0
+be6f79ea-e1ff-4958-8b24-7f6d3097efb5,348.91,2024-07-07 15:56:55,Susanfurt,Credit Card,0
+5ba5ac03-da9f-4705-8efc-bcc1573adc37,46.17,2024-11-06 07:20:29,New Jared,Credit Card,0
+8b236572-14ca-41f5-a86b-408e8db785a6,432.51,2024-05-21 07:57:58,West Danielport,Credit Card,0
+16787af6-cee8-44d0-9801-1a0051135362,701.27,2024-07-22 16:28:20,Ryanborough,Bank Transfer,0
+0a6b4ffa-573d-440b-95fd-930a657f3d72,17.57,2024-06-08 00:05:06,Lake Amy,Debit Card,0
+00e47ada-8326-4d64-95f9-2cac1e132d3b,137.75,2024-11-15 09:31:02,South Manuelport,Credit Card,0
+57e35f6f-a743-4ae8-ad67-dd5efa7c972e,965.67,2024-10-26 20:32:37,Valerieland,Credit Card,0
+f909e211-2a42-48f7-b98a-35fd13344daf,334.91,2024-05-09 13:00:28,East Michellefort,Credit Card,0
+937e2f28-ef85-48d6-a1cb-44946dfaa88d,905.45,2025-02-12 12:05:19,North Marvin,Credit Card,0
+3e94a4b2-15be-440b-9f5b-a62d097d4864,732.84,2024-05-15 09:03:15,Lanehaven,Digital Wallet,0
+96c02655-b5a3-4e92-a2dc-f350a97456c3,25.29,2024-10-09 23:35:27,Anthonyville,Digital Wallet,0
+d3819f4d-9a40-45d1-b011-aac6fa0b0143,780.1,2025-01-29 05:22:38,Lake Douglas,Credit Card,0
+3676c782-7ed6-4c24-8ea5-ea4821f6c34c,922.58,2025-04-02 04:44:53,Whiteborough,Credit Card,0
+f10d0d0b-11dd-444e-8d03-6f44659df5bf,258.64,2024-06-06 04:05:36,Conniemouth,Digital Wallet,0
+452bacc9-4630-4885-a406-a05a65596818,877.32,2024-08-05 21:29:40,East Thomas,Debit Card,0
+2d3dfead-cce2-4020-8e04-a14cd2efa303,409.54,2024-11-01 02:34:29,Williamsburgh,Debit Card,0
+c2672432-073d-401a-bb25-3d23d606ed40,76.79,2024-07-03 16:27:02,East Erikport,Debit Card,0
+aee61a4f-cebf-4465-aa96-526177cd7b59,57.25,2024-05-12 16:47:33,East Jacquelinefort,Credit Card,0
+7d34c64a-97da-4feb-89ad-b2d1c6b58174,341.73,2025-03-14 19:39:18,North Meghan,Bank Transfer,0
+ad73ac48-f45d-4c94-bf4e-724474b0b20b,971.81,2024-05-25 16:06:30,Port Michele,Debit Card,0
+9af72932-a786-4304-af45-f82ebfe2fcfd,100.34,2024-11-15 02:43:53,Middletontown,Credit Card,0
+7093ab50-d955-41bf-85da-e0adef5c7fe8,94.01,2024-07-30 02:42:38,Stantonhaven,Debit Card,0
+db4ec7d1-7ad6-48f9-94c5-89166b0d0790,27.51,2024-08-08 09:29:22,South Katherine,Debit Card,0
+dff2094e-650e-4e6e-bd27-39a35313d758,842.28,2024-09-20 19:26:58,Wrighttown,Bank Transfer,0
+77c0e82d-a93b-4b50-801d-df2fbb814350,594.54,2024-08-21 14:30:37,New Danielside,Credit Card,1
+c23ed55f-743b-498e-ad01-6cb95f0fba38,107.49,2024-11-13 00:36:03,Port Mariastad,Credit Card,0
+6668bfbb-f609-4738-9e51-bc26b723be13,108.06,2024-06-16 09:23:19,West Sethville,Debit Card,0
+74eeaa83-02ca-4e6a-b933-bd07145150ce,565.57,2024-04-29 19:24:50,Wolfhaven,Bank Transfer,0
+fe368b02-23fd-4212-b072-1242e4a272db,732.26,2025-04-06 15:36:22,South Jessicafurt,Debit Card,0
+280a4a9c-cf44-4c8c-8d96-fc39c6cdc44e,815.65,2025-01-20 03:50:47,Griffinton,Debit Card,0
+7fa26056-f558-4f00-9644-eec7d4c4ced2,866.31,2024-09-16 03:48:58,New Kenneth,Digital Wallet,0
+742087a8-0e8d-41ef-8318-1947a0e31ba3,755.38,2024-08-19 08:54:43,Port Randall,Bank Transfer,0
+c85fd6f2-b33b-4f47-84c3-df1ff12a7692,297.82,2025-04-27 03:40:07,West Amyfort,Credit Card,0
+83d92f04-9f64-4029-a8da-2907ba2f84b4,387.35,2025-03-06 23:50:04,Melvintown,Bank Transfer,0
+88594051-0e5b-449f-b4ce-086306038c4e,64.31,2024-05-22 05:24:29,New Jacobbury,Bank Transfer,0
+209911b8-1fbc-4056-98c5-ff26b58d28e8,174.12,2025-01-19 18:53:13,East Patricialand,Credit Card,0
+ddbeddd8-3dc2-4cea-a6dd-234f04089f59,232.98,2024-11-22 17:34:59,Tylerport,Credit Card,0
+0aa88e39-8806-45b7-8b8b-7fa8b6044959,618.64,2025-03-01 17:16:56,Briannastad,Bank Transfer,1
+0cf17327-f38b-4808-ba4a-ece7023a1754,707.53,2024-06-14 11:35:16,Nancyshire,Bank Transfer,0
+f84a24ff-0d51-4f5d-ac0f-c5c3afae961c,410.97,2024-08-22 05:16:36,North James,Digital Wallet,0
+ffb2a94e-fb46-4c29-bf47-e21e0c7f57b0,899.67,2024-07-22 06:51:33,West Lisa,Debit Card,0
+be3e3484-2435-445e-8092-3cde6c44492b,704.38,2024-12-05 11:11:16,Port Tonyaport,Debit Card,0
+47bd44d2-5c1b-46aa-b004-65c3c2f88381,896.2,2024-07-02 06:30:07,Townsendchester,Bank Transfer,0
+aaef2c9c-80ce-4438-b890-08d3ff04066a,376.21,2025-03-20 14:07:05,Georgeshire,Bank Transfer,0
+e6600bd7-e416-480e-915b-3b8263b9fdd0,576.71,2024-08-15 20:08:48,Melissaton,Bank Transfer,0
+568b541f-14a0-4034-8728-67614d383edc,337.27,2025-04-05 12:35:13,West Kimberly,Bank Transfer,0
+8b09ea12-fb4f-4447-abdb-c7a0eedc7313,692.2,2024-10-28 23:03:21,Stephaniechester,Digital Wallet,0
+5f740916-5ecd-4eca-a5a3-eefc845897d7,153.71,2024-11-14 19:44:57,New Amandastad,Credit Card,1
+5f5a0bb4-fa78-4616-ac48-b8d6c4575cd1,832.61,2024-05-23 22:09:31,Martinview,Debit Card,1
+06b9d986-050c-4244-b4d2-8389aceda0fc,117.95,2024-10-02 15:24:31,Justinbury,Digital Wallet,0
+c45412ba-31a8-49cc-a34b-b5e331b5a4c3,590.7,2024-09-03 23:03:25,Lake Chelsea,Bank Transfer,0
+edd81554-16bf-429f-9192-9373aa7539d8,642.39,2024-06-11 03:12:41,Jefferymouth,Credit Card,1
+70ef853a-1a83-47f5-9a74-9ba1d42f2d81,546.07,2024-05-16 04:26:22,East Donna,Bank Transfer,0
+82741993-ff51-4d4c-b6bd-17dcd9b4de3e,665.53,2025-04-26 18:32:33,Claytonchester,Bank Transfer,0
+998b8906-ae53-46a4-af19-31d0a13501f7,238.94,2024-10-07 19:48:17,Munozview,Debit Card,0
+6fd26267-2cf1-4f36-91e9-d27f3f10fb6b,633.84,2025-04-02 15:03:29,Carterfort,Debit Card,0
+6be3ac08-c048-4953-9ffc-6740966e9cfa,772.47,2024-11-04 20:05:16,North Davidville,Credit Card,0
+1108065f-6cb9-4ba8-972a-6a5b57fe7aab,451.09,2025-02-18 10:55:49,South Danny,Bank Transfer,0
+5ccd4e6b-53bf-46ea-9649-e5429d1868a4,29.75,2024-11-27 14:25:22,Port Xavierchester,Digital Wallet,0
+bcbf5067-85e1-4a9a-9b97-d35192aa866b,15.38,2025-01-02 14:58:32,South Morganview,Debit Card,0
+45e3ace7-7e85-40d6-bdff-9a14ad160184,359.11,2024-07-10 14:44:54,East Aaronport,Digital Wallet,0
+74a27e71-67d4-4ee0-8fe4-532d7c523507,472.59,2025-03-07 01:29:47,North Sandrachester,Credit Card,0
+a70de687-bdd8-4192-b443-946734510853,637.79,2024-08-31 19:19:39,Stoutville,Credit Card,0
+76050c92-ecab-467b-aeea-39e00f35e66b,121.52,2024-11-05 01:33:26,Smithton,Digital Wallet,0
+f0543755-9558-4797-a022-2d6a372b197c,694.25,2024-11-28 17:40:07,Harrisonton,Digital Wallet,0
+7d424ab8-4940-43fb-8a53-09dd6dff8b20,542.09,2024-09-14 06:55:02,Jacobview,Debit Card,1
+aade6c93-c9d2-4dc7-9408-4aa36bdbac75,571.21,2024-07-22 05:04:00,East Michelleside,Bank Transfer,0
+9c6d4106-100c-430f-b2f3-6e9ca7d6d1ed,716.26,2024-05-01 02:18:12,East Amber,Debit Card,0
+3edeebad-4aa6-4a76-961d-509e276e21f5,846.61,2025-01-25 10:28:55,East Heather,Credit Card,0
+03dc0a11-353e-4ada-8d39-79977fe146f9,139.69,2024-05-23 13:03:21,Leahburgh,Debit Card,0
+244c5b7c-5a60-4937-a662-b242438a9cf0,373.94,2025-03-08 16:11:16,West Eric,Bank Transfer,0
+e1acadfa-0034-4d51-aaea-687ca6651186,19.09,2024-06-28 01:44:17,Larrychester,Bank Transfer,0
+0678d034-429a-4960-9102-fae64ce2852d,506.38,2024-12-11 04:44:48,Stephenshire,Credit Card,0
+cf86d472-4761-4357-81dd-bca099dfa95c,187.86,2024-07-16 17:18:51,Wilsonmouth,Bank Transfer,0
+63498ccc-4b3e-496f-bffe-565a0ac47e56,119.7,2024-11-08 08:23:10,Port Corey,Debit Card,0
+54ead129-e936-485b-b4ae-2a34322e76b0,339.69,2024-08-24 17:16:33,Katherineport,Credit Card,0
+581e8488-b677-4713-b381-cb4b9862242d,317.61,2024-05-20 12:25:28,Ramirezhaven,Debit Card,0
+0ec621b3-92a5-425d-8ece-091b1c900102,646.27,2025-02-01 13:15:45,Dennisside,Digital Wallet,0
+5cb25bb7-c154-46e8-b68e-59d1db92673b,512.58,2025-01-29 18:51:48,Port Erika,Credit Card,0
+6364e35f-53da-4536-a9ae-7b143715de06,389.91,2025-04-13 07:05:58,Ericachester,Debit Card,0
+f184efdb-6ba8-4a29-9ad9-bef83fcfc7c9,280.65,2024-06-27 11:27:38,Sheilahaven,Bank Transfer,0
+602eb28f-f838-4edf-9812-cace8a9ab438,795.39,2024-05-03 07:44:58,South Kimberly,Digital Wallet,0
+29d21287-8220-4c75-9006-8e842897a8b3,125.17,2024-09-19 07:14:13,Reneemouth,Digital Wallet,0
+f8c10bb6-c1c9-4a5e-b3b1-c8c58136430f,753.62,2024-10-24 13:08:59,Wrightmouth,Digital Wallet,0
+66d992c7-60f7-4402-842d-c551985b7373,822.78,2024-06-02 23:30:35,Vincentport,Digital Wallet,0
+712b45d2-1951-45b1-b418-417eb6aa0011,356.32,2024-04-27 18:43:37,North Dannybury,Digital Wallet,0
+6d842f36-f0b1-4bfb-b766-f60249c235d1,771.2,2024-11-30 01:06:59,Shawnfurt,Digital Wallet,0
+c63ceded-73bd-4b56-a0af-e1f3429b367f,728.46,2024-06-09 21:44:02,Joannborough,Bank Transfer,0
+2b7dc9e6-4085-4e9f-9494-a3a41ef8a36c,914.38,2025-01-16 01:09:33,West Patrick,Credit Card,0
+82441d19-2bba-461e-95a2-6bbba320e9d6,140.13,2024-06-02 00:26:39,Laurastad,Bank Transfer,0
+725f040d-2616-4e8c-8dca-4bc341770e7a,770.22,2025-02-03 03:18:19,Heatherton,Credit Card,0
+369fd162-8fba-45a7-b160-69a7edd68cea,895.63,2024-05-01 04:38:12,Jessicaport,Credit Card,0
+1f856094-ade8-4f38-86d2-8b194a1b3f6a,427.68,2024-07-17 14:06:05,New Rhondaland,Debit Card,0
+9803baca-00a6-4c51-81e7-bd17abb6c79f,354.0,2024-08-10 18:10:53,Haysstad,Bank Transfer,0
+a407e1b3-afb0-4e96-8ad1-16043b2ac9f0,612.11,2025-02-07 02:32:10,Hallmouth,Digital Wallet,1
+509790be-13ef-4af2-9651-b7f5597af527,169.77,2024-07-06 04:52:23,New Sarahmouth,Debit Card,0
+cf875511-4b3f-4409-80f0-a5b2864b3b04,91.2,2024-09-08 11:37:55,Stewartside,Debit Card,1
+8bab4b2a-ee7e-4742-8a4f-3a3b203bbd93,810.3,2024-10-18 10:45:52,Hernandezmouth,Credit Card,0
+10a61228-ee61-4fea-b424-9ce0df5369cc,247.16,2024-11-06 17:00:04,Ashleyville,Digital Wallet,0
+38b3f57d-adf2-4127-ab3c-e242d1a84b38,747.86,2024-11-18 01:07:33,Port Michael,Digital Wallet,0
+eb18e6a4-e974-42ef-8d3f-5ea4c952fcbf,536.24,2025-02-15 19:29:18,Reynoldsmouth,Bank Transfer,0
+1c74a8a6-1d64-425c-b765-51814d0d9e74,537.86,2024-08-30 12:37:44,Jessicastad,Debit Card,0
+96ac9024-a448-43a7-985e-dccbca175e81,807.63,2024-11-26 05:15:53,Marvinburgh,Bank Transfer,0
+821633b1-ceda-42cf-aaad-fb3d89a554b8,370.79,2025-02-08 20:10:28,New Crystalstad,Debit Card,0
+60445eb8-09fd-4b41-8212-faf9c92cd097,140.63,2024-08-30 22:00:44,New Juliebury,Bank Transfer,0
+0aaf74df-5d9b-4962-ba66-41132ad42ca4,420.18,2024-06-18 18:31:16,Maryburgh,Digital Wallet,0
+25d1ff7c-20e0-40d3-a5dd-5dbebc02c136,134.88,2025-04-05 19:27:20,Mayerside,Bank Transfer,0
+f7e41a4e-bc66-4c4d-b1a0-db9060dbb9d3,702.78,2025-04-15 01:59:50,West Trevorchester,Bank Transfer,0
+f6a7979c-3ce0-4309-b2cd-765797156dba,962.21,2025-04-24 04:58:20,Matthewchester,Credit Card,0
+733193ae-2f6c-4802-97ef-c2aec04adc39,273.04,2024-07-01 08:08:55,Port Larry,Credit Card,0
+fff09f1d-8a85-4f50-b39e-30812d6892c1,453.84,2025-01-05 03:46:20,Port Crystal,Bank Transfer,0
+8ae978a4-21d1-46b7-b16f-993c47108e08,855.61,2024-06-03 10:24:44,Julieshire,Digital Wallet,0
+829f8a61-6959-4316-bb61-f7274c08a5c3,992.97,2025-04-18 23:17:18,Gibsonhaven,Digital Wallet,0
+7cd75cd6-70d4-4805-b2b9-84a4ece34be6,814.65,2024-11-22 07:34:26,New Richardmouth,Credit Card,0
+fb3bebb7-0c9c-4a98-b16c-600e76493352,633.77,2024-08-18 14:03:31,South Danielfort,Credit Card,0
+153751cb-32ee-412d-914a-0ae9eabde24e,939.56,2025-01-27 06:28:21,East Pamela,Debit Card,0
+031f1b0d-78d9-4e2d-8ee1-2af8644f6a00,809.55,2024-07-16 19:05:08,Derekfurt,Credit Card,0
+c9fea3fa-4a7b-4a34-8126-b6a92f6a3e40,269.41,2025-01-30 06:44:07,East Davidstad,Bank Transfer,0
+1315ad33-926b-44cc-b108-f89f334949ad,632.21,2024-12-16 22:00:30,East Michaelfurt,Debit Card,0
+54bdc2d9-fa8d-4b98-a095-b7f18221de7c,555.88,2025-04-23 13:55:29,West Davidview,Debit Card,1
+5a1e7a29-520e-41ab-be01-0602c0b25222,606.82,2025-02-03 01:53:30,Leslieland,Credit Card,0
+74a97c0c-5ac4-4759-acb5-1fb259effef3,200.47,2025-01-24 03:04:56,Brownstad,Digital Wallet,0
+6e0c6fa5-4993-4a20-bb48-e2fa906939d7,684.55,2024-12-08 13:53:38,North Jocelyn,Debit Card,0
+b02b5fc3-b8ba-44f6-8e83-a1d160cabaa3,672.46,2025-04-09 18:47:53,South Mariaburgh,Bank Transfer,0
+dc5c7655-6e8c-4b2c-abcc-c0e381d3189c,272.87,2025-03-22 09:01:07,South Jamestown,Debit Card,0
+ff2d5064-fca2-4b47-aa0a-36289ce709a0,607.11,2025-03-28 03:49:29,Port Johnstad,Bank Transfer,0
+0c70940e-642f-4fd3-be48-af6ba2aab40a,530.12,2024-06-14 02:55:58,Robertoshire,Debit Card,0
+d46913f9-21dd-47b7-b68f-0804cb4b4622,890.37,2025-01-04 18:56:17,Bellland,Digital Wallet,0
+c720ce5b-0866-4ed0-8f22-2980b3852e23,260.16,2024-10-16 06:10:49,South James,Bank Transfer,1
+d18c77b8-ff2f-462e-9cb2-6c6c8d40b0d4,167.12,2024-11-30 07:33:20,Lopezport,Digital Wallet,0
+a03cf355-3fb6-4793-91fc-e1ad95382bb0,120.47,2024-08-25 14:48:36,Carrollchester,Debit Card,0
+8de02530-5cbf-4a97-b51b-47484c2fe4cb,775.36,2024-08-23 01:07:09,Caitlinchester,Digital Wallet,0
+f8fc2ed4-a9b7-449b-abd7-dc7d9ca582f6,595.48,2024-06-26 22:00:43,South Dennis,Bank Transfer,0
+3285d5f3-a768-4e99-a3da-fe05026af165,326.07,2024-06-11 09:05:14,West Brittanystad,Debit Card,0
+2c435258-2246-41c7-a319-67bc95d0d16c,371.27,2025-03-19 03:34:36,East Samuelburgh,Bank Transfer,0
+53ae5635-0bef-4f3c-b4d2-5dcc1d6d97ca,285.56,2025-03-21 06:19:16,East Kristenshire,Credit Card,0
+5675a40f-c1bb-40e1-8a2c-088ee88e6bd4,418.82,2024-10-02 19:52:50,Larsenside,Credit Card,0
+a15d6348-8b60-46c2-93de-e4276d5b6aa3,949.85,2024-12-31 13:51:03,Jamesstad,Bank Transfer,0
+0551054e-52c3-48d7-b9f2-4e81e69f28eb,941.52,2024-05-15 04:36:06,New Amy,Bank Transfer,1
+52ad2c2b-a3d9-4e4f-8a95-8da524da353e,722.73,2025-01-27 15:38:32,Jordanstad,Bank Transfer,0
+7739ec70-5034-46ae-9cf9-770301af0cec,909.41,2024-09-22 18:32:01,Rogerstown,Digital Wallet,0
+40c0a815-0dec-4912-a4af-52f0e18a1c3d,375.24,2025-01-26 01:43:11,Sarahview,Bank Transfer,0
+f1fea655-c250-45ed-8ef0-8045ee6444a3,377.91,2025-01-26 20:22:39,North Feliciaville,Bank Transfer,0
+e75f768f-7926-4222-a044-66b726e3ff04,399.11,2025-02-21 22:43:57,Lake Breanna,Credit Card,0
+092349a3-b637-4b2b-944d-27b543ef12a0,601.51,2024-06-01 00:12:56,New Brenda,Credit Card,0
+7f29b79d-aea6-4f78-8157-178aca45a210,894.0,2024-10-14 13:36:39,Port Jacqueline,Debit Card,0
+c3c965f4-1a77-4cc1-814d-2a1e2009681d,23.45,2025-01-02 18:22:49,New Linda,Debit Card,0
+649f2685-54ba-495c-86ed-2362c33c8dde,578.7,2024-12-31 21:11:49,East Toni,Debit Card,0
+b8435284-4135-4f0f-940e-9e22f89b90f9,525.23,2025-04-19 20:18:53,New Micheleville,Debit Card,0
+b224e360-3f95-4583-bc40-c44bc353acc4,623.67,2024-04-30 01:01:25,East Sandratown,Bank Transfer,0
+d728f2d5-dfb0-455b-806a-95356f5c3759,143.85,2024-12-19 18:54:16,Robinsonmouth,Bank Transfer,0
+10f303b1-570b-4327-adbf-68c4d9fb9602,760.47,2024-10-25 08:50:25,South Garrett,Debit Card,0
+6a5e278b-77e9-4d8a-9c74-2db958232b6d,135.28,2024-11-16 14:08:56,Veleztown,Credit Card,0
+da5b6049-93c6-46ce-af2e-e1fa58fd637b,746.74,2025-04-10 10:15:03,Williamschester,Credit Card,0
+db292861-a67e-464f-aba8-90ef2ce4b396,946.17,2024-12-03 22:22:44,Gonzalezberg,Digital Wallet,0
+485a8ea5-b147-47de-b70f-cf409c51da6d,363.72,2024-05-31 13:28:10,Housestad,Bank Transfer,0
+77f52791-09d3-4f8f-8777-3a9e4698a514,799.62,2024-08-25 05:48:09,Port Marcuschester,Debit Card,0
+fa4799ee-76ba-4ff7-96ce-b71057a6eb97,822.04,2024-09-03 07:39:29,East Thomas,Digital Wallet,0
+1c627105-e98e-4f86-badc-32409b6a6f85,628.08,2024-09-21 11:10:15,North Fred,Digital Wallet,0
+93671a02-1d8c-4338-a5c6-d4b712f17c9b,627.93,2024-12-16 14:22:54,North Lisaberg,Bank Transfer,0
+6b57a244-5f3d-4cf1-aebd-d5f71a2ac750,122.92,2024-08-01 02:22:51,Taylorview,Credit Card,0
+f079e27a-4b24-4c2e-bbef-ed2747f1bd23,690.7,2024-05-27 01:16:57,Lake Kennethside,Bank Transfer,1
+1cfbf629-ccc7-4a09-82c1-360921d939ce,485.04,2024-11-19 15:19:27,South Hollymouth,Bank Transfer,0
+4dac3b79-9d5a-481c-9c05-aa32601bbe48,291.94,2024-11-20 12:46:53,South Matthewland,Bank Transfer,0
+f84e3805-4b4c-44c2-a7bc-aba516b8b6f5,591.68,2024-11-06 17:48:22,East Christopherbury,Bank Transfer,0
+358a216c-5c17-4725-a886-b14c78af25cf,118.41,2024-12-29 17:44:02,North Sarah,Bank Transfer,0
+20c9d78f-4899-4b96-b8d2-23b58c0d312f,629.77,2024-09-18 07:48:40,Harrisland,Credit Card,0
+49683690-eecf-42d3-8cfb-b8a8a87c2c59,894.93,2024-11-25 23:18:12,Derrickshire,Bank Transfer,0
+d1659e3f-f948-410a-b7b7-7738df9f7032,212.24,2024-06-25 23:41:58,Taylormouth,Credit Card,0
+2180e562-f621-4714-8a4f-47acabbda184,26.39,2024-10-14 03:08:31,East Joanne,Debit Card,0
+8dc75938-87e0-44ca-b17b-7298b84e2f29,341.46,2025-02-10 21:10:01,North Emilyland,Credit Card,0
+a5b69daa-6c8b-4ab1-934f-793c566e9a39,277.6,2024-12-27 00:36:33,West Jeremy,Digital Wallet,0
+ad8bc118-8216-40f1-9027-aab4c083ed89,725.99,2025-04-24 04:48:36,South Johnview,Bank Transfer,0
+25671118-30f6-43ed-80d3-20b08083c06a,21.05,2024-12-02 15:22:59,West Gregory,Digital Wallet,0
+097bc2cf-f597-4828-a016-29ee05184ee9,447.96,2024-09-06 14:49:23,Reyeston,Debit Card,0
+3b8067ea-2552-41b8-b949-a4e7fb7a96b2,576.94,2024-11-10 17:30:07,Rodriguezton,Credit Card,0
+6920d340-0b43-4807-a41d-b3509235e92e,15.53,2024-11-11 02:11:41,Lake Nathanland,Credit Card,0
+34ecb70f-2a7b-4956-b775-1cb2ab1035e8,215.73,2024-05-01 03:49:09,Kingborough,Digital Wallet,0
+a3ddaf3f-cdfc-4f8d-a775-97d27905d2ca,84.42,2025-01-22 07:18:17,West Jeremy,Credit Card,0
+3e3a36d8-011a-43c0-b351-74fba58755f1,868.73,2024-07-03 00:32:19,South Roger,Credit Card,0
+db417eeb-7d99-4174-a4ff-2269ccfb9be0,584.73,2024-06-06 20:06:13,South Tony,Digital Wallet,0
+778f4aa4-e4c0-4e85-90ff-e4f20e42f524,982.4,2024-09-24 05:15:28,East Jerry,Credit Card,0
+f27f24d4-7371-4b30-809e-3cf939d825c4,914.95,2024-10-18 08:46:25,Port Jennifer,Credit Card,0
+f1c6b3d2-39db-4d10-b4ae-e7ba2c5ee9c7,112.09,2024-11-30 06:15:11,North Michelle,Credit Card,1
+4a11721b-03fe-426c-981c-d03d685c3637,252.53,2024-06-10 13:57:26,North Krystalside,Debit Card,0
+fe9eeb90-b39b-4bf0-a4f4-08d34fc04474,82.68,2025-02-14 19:14:35,Michaelmouth,Bank Transfer,0
+066a2738-e7bc-4f5c-9193-c0420c799d92,243.23,2025-03-27 02:17:42,Port Marcusburgh,Debit Card,0
+ccf0d59c-ffe8-4fac-ba8d-1a77bb642143,543.18,2024-07-12 15:20:21,Port Martinfort,Debit Card,0
+bcf1bbbb-c89b-44de-85c2-965fb52cdb73,860.87,2024-08-13 06:17:23,East Davidchester,Digital Wallet,0
+4bb100c5-7ee2-4834-9d7d-507eb4039d2e,980.05,2025-03-18 17:00:59,Mcdanielside,Digital Wallet,0
+05ac3506-3c72-4c95-8b33-3d072921d6a2,942.97,2024-05-24 16:14:18,South Kathleenbury,Digital Wallet,0
+8020824c-e0e7-4ea9-8a5c-9116bb3fd463,986.53,2024-07-19 15:34:54,East Melindaview,Debit Card,0
+c0141962-7c05-4ea3-a00b-a66953e4b3c0,78.66,2024-09-21 13:49:26,East Lisa,Debit Card,0
+bcfd1ad1-d78a-4b81-ae14-c574ae8bd724,231.84,2024-10-10 09:39:49,Angelatown,Debit Card,0
+b86c30f2-0dca-4b30-b052-a42d52570cac,895.31,2024-11-18 18:55:43,Carmenport,Digital Wallet,0
+b44000f1-ebb5-4f54-b3e2-6e6981edbdc6,503.63,2024-12-27 23:27:04,East Joseph,Bank Transfer,0
+9e670f67-62da-4f7c-8267-66deafde46d1,900.52,2025-02-13 15:22:21,Rachelside,Debit Card,0
+b3bf0527-298d-4a6f-9ea0-ced8c1f3649d,171.35,2024-12-21 18:40:17,Port Kennethstad,Credit Card,0
+c35bbc85-3941-4016-b513-646644b32087,248.1,2024-11-22 09:28:37,Lake Edwardmouth,Debit Card,0
+0621356e-ed53-427a-90e2-018468878c54,622.46,2024-12-01 03:50:07,North Sharon,Credit Card,0
+90b90f22-2cb4-4159-8bb7-3b4571086354,289.41,2024-06-11 14:18:02,North Catherineport,Debit Card,0
+be705b15-9652-4358-9e3d-0a32ffd7fb9f,537.57,2024-09-28 13:52:32,Robbinsview,Credit Card,0
+9cebc9e4-2a95-44b3-9c9e-eb56a6a22639,140.22,2024-12-03 02:54:01,Jessicastad,Debit Card,0
+5257c91a-11cc-4732-a859-28b45519d8ec,24.25,2024-05-24 21:29:22,Smithhaven,Bank Transfer,0
+8a69eadf-97b7-48fd-88ed-2139d69f653d,554.8,2024-06-18 10:57:35,Stoneland,Debit Card,0
+7e89a56c-aa07-461c-9622-8a0a9306cb82,906.57,2025-03-04 21:27:08,Smithport,Debit Card,0
+d3a7d036-e844-4c95-a09d-3493a88d5c58,996.88,2025-03-23 00:49:08,Sullivanmouth,Bank Transfer,0
+0ae69195-0783-4b41-a6f5-6dcb632f7538,650.31,2024-05-21 02:43:48,Lutzchester,Debit Card,0
+6a0b5a0c-af66-4f1f-98a5-feef77a6a059,660.32,2024-10-18 04:41:05,North Eric,Digital Wallet,0
+4735c4e8-e4a6-489e-8616-fbf6f885424f,706.54,2025-01-10 00:31:47,North Josephmouth,Digital Wallet,0
+c5745b40-1859-4987-8cb4-21aae1c3e004,877.46,2024-05-21 23:59:40,Port Michael,Debit Card,0
+e725d81c-6680-4d61-aeb7-e1df8c7af4c3,361.61,2025-01-04 12:14:03,South Paulmouth,Debit Card,0
+499b48a0-ddfb-45ab-8b1e-ba097abdc72a,914.5,2025-02-18 20:41:35,Jonesville,Debit Card,0
+dc549812-d763-4186-813f-217a53a5c4fe,691.25,2025-01-30 12:31:45,South Danielstad,Bank Transfer,0
+33413e58-76b7-4f17-820c-ac14295895b7,897.32,2024-11-23 14:26:31,South Rachel,Credit Card,0
+8667a054-859c-4e0b-849d-285f3aaa8006,81.15,2024-12-08 23:36:42,West Christina,Debit Card,0
+3fa8d26f-8612-4803-b852-dd67998fc755,633.77,2024-12-26 01:50:48,Port Heatherville,Digital Wallet,0
+30803d49-7a77-4315-8ad8-c611c2c6cd41,222.75,2024-12-06 04:50:39,North Johnview,Bank Transfer,0
+968e6ac7-824e-4474-925a-707b8f557ea7,335.57,2025-02-19 17:09:36,Michelemouth,Debit Card,0
+47f93d1f-c29c-4b38-909d-06227379bc98,114.36,2025-03-19 21:12:13,Shawnton,Credit Card,1
+087c61cc-8ce6-4813-b453-52f99cb6053c,586.19,2025-02-25 06:47:29,Joneschester,Digital Wallet,0
+a7bacf78-d521-47f1-bc13-31eb022da160,987.29,2025-04-03 13:59:37,Vincentstad,Debit Card,0
+24c9eb58-ddb3-45fe-adee-dd210968cfb0,52.63,2024-12-01 10:47:14,Andreachester,Credit Card,1
+3de7dcd0-6f20-4b7c-88a7-fca5c0f092bf,806.4,2024-06-06 09:37:13,North Blake,Digital Wallet,0
+cc804ae0-f2ff-4377-ae78-a74a6494b481,620.51,2024-07-09 20:01:42,Port Anna,Credit Card,0
+789ed2fc-1432-4a8c-91e6-dcde1dda5a5f,492.62,2025-04-22 11:26:03,Lindsayville,Bank Transfer,1
+4f3678de-1ee5-4b1b-bb9b-ae059153ab49,795.02,2024-10-16 03:36:49,New Christopherside,Debit Card,0
+244c5d0a-b0d5-4ad9-8fee-f42968f37ead,253.18,2024-09-15 05:52:09,New Emily,Digital Wallet,0
+994290f4-42f5-47af-9b67-0ba4c2dd766e,936.89,2024-05-08 07:51:32,Wyattbury,Debit Card,1
+e94ae7ec-a35b-43ac-bdec-0691841bd8e3,574.9,2025-03-21 13:57:05,Rogersport,Credit Card,0
+364d43e6-c2e4-4220-9529-e4a7a29c4b06,389.29,2025-02-04 05:41:57,Alexanderchester,Credit Card,0
+2aa04cd0-6de0-432a-8d9a-919fcfb7d979,347.61,2024-05-12 08:31:56,Stevenfort,Credit Card,0
+2066232e-21a8-406d-b380-c8cd0c74b197,230.02,2025-04-04 05:34:33,East Davidstad,Credit Card,0
+77cdd51a-5ecb-402f-bed5-ee8783095d60,229.41,2024-07-02 17:05:34,Ianfurt,Credit Card,0
+d4e5782f-8513-4781-a9a1-4e8b901d6f88,258.68,2025-03-11 20:11:27,Wandaside,Credit Card,0
+a39062df-23f1-40bb-862d-007fde33947e,969.62,2025-03-01 10:55:46,Bryanview,Debit Card,1
+bdb94dc5-d8f5-4c2b-b5af-1cb644406260,79.38,2024-06-24 18:30:51,New Randy,Bank Transfer,0
+e030ba74-67a2-4d9c-89e5-29654aa2124b,461.32,2025-03-29 09:40:36,West Bill,Digital Wallet,0
+7db28a13-0e9f-47bb-a022-0a906e52c9d4,152.52,2024-08-27 04:53:05,Lake Megan,Debit Card,0
+52844bc6-5ed7-4ecd-8c22-d166bca74967,911.02,2024-11-15 00:45:25,Port Jessica,Credit Card,0
+3a88b2bb-8f08-41dc-8b4b-bfa4f04c91b4,284.49,2024-05-19 00:39:54,New Jack,Digital Wallet,0
+ab31535b-5b27-4686-8ac3-e31c44e77e1d,498.87,2024-08-17 00:18:35,Shafferhaven,Digital Wallet,0
+df3a816a-c8b0-4afa-ac48-a12619ef9bfa,367.0,2024-11-02 15:31:51,West Andrew,Credit Card,0
+d404abfa-a9a7-4833-9907-0db5160ee091,282.57,2024-07-15 07:49:10,Samuelborough,Bank Transfer,0
+3a2fe96b-8676-4836-9f83-955cc57bb6f1,137.24,2024-11-18 00:22:34,Cruzport,Bank Transfer,0
+196e5a6d-21dd-469e-a992-fb46fe9b6f5b,244.75,2024-07-10 22:10:24,New Charles,Credit Card,0
+bd6e6f04-ff6a-4d27-97ae-e15aafdeca80,85.75,2024-11-25 23:53:54,Port Audreyshire,Credit Card,0
+29caeb6b-e1f3-4ee0-be26-c651b640cb75,227.27,2024-05-24 21:04:29,Spenceburgh,Debit Card,0
+13e5aafc-9921-4e59-b43d-e6399b1b822a,828.91,2024-05-27 14:57:44,South Jenniferchester,Digital Wallet,0
+0e4408b6-7433-4fa6-896f-a3750fa65b05,807.03,2024-09-16 16:58:33,Hughesfurt,Debit Card,1
+6c10baa9-99c3-41a6-a522-2cca4bee8f79,523.57,2024-11-11 02:01:45,North Sarahborough,Credit Card,0
+6dc18120-4ebe-4bc9-be72-e9b0a974a1c9,415.4,2024-10-13 14:15:16,Collinschester,Credit Card,0
+5f2c3872-582e-4e9b-943a-ac5e6f631812,549.98,2024-09-29 16:25:45,Lake Heatherburgh,Digital Wallet,0
+abb950d0-93c8-4759-bcff-1ef97bd13c48,187.38,2024-12-10 20:21:45,Lauraview,Bank Transfer,0
+976cfef4-680e-4a9b-bb86-a17b4e801adf,469.19,2025-04-08 04:39:37,East Jesus,Digital Wallet,0
+f3df195b-96ba-46ef-bc13-861696748984,877.59,2024-12-28 17:32:09,South Kimberlymouth,Debit Card,0
+5c6d8b7f-bab2-4efd-b23b-f241c8a6a7f7,75.48,2024-08-16 23:10:49,Sherritown,Debit Card,0
+2d65d062-92ee-4756-8d51-780018ed08a7,358.8,2024-10-06 07:00:52,Smithchester,Credit Card,0
+9624910e-605f-49ce-8c1f-f1e80ace893b,428.76,2024-07-12 22:15:21,South Kara,Credit Card,0
+12afbfa1-826b-4537-bd68-08752c700517,623.27,2024-11-21 23:14:46,Lake Sarah,Digital Wallet,0
+4f35d3c1-a035-426b-9114-d1278ae93672,252.55,2025-01-07 20:03:56,East Jason,Digital Wallet,0
+af2aadc8-1007-43ba-a51c-bd3befb39c8b,357.4,2024-06-06 16:11:05,New Tina,Bank Transfer,0
+e2e1abc4-3d12-45f5-931d-37fb7f067363,596.04,2024-06-19 02:24:07,East Michaelchester,Digital Wallet,0
+71fa0856-e84b-4631-aabf-d6862fa9ce58,873.71,2024-09-11 00:01:11,Ruizchester,Debit Card,0
+1b148993-695a-4175-a5fb-cf96da61dcf5,729.88,2024-10-28 22:57:31,South Kathleenside,Debit Card,0
+ad096f21-f66c-4e18-907d-a21dad4b2a04,549.19,2024-12-28 07:24:42,Mitchellport,Credit Card,0
+6aa61bfd-a5bc-48b1-9e69-d509ce97b554,641.23,2024-05-04 09:18:25,Lake Brandonshire,Debit Card,1
+4a04b989-e053-40d3-b71b-76ea83c12aaf,177.83,2024-08-24 06:15:10,East Eric,Debit Card,0
+eeff846e-dd80-4ac9-807f-07a32b5f408f,874.02,2025-03-03 03:56:25,Jenniferstad,Debit Card,0
+b31dbb8e-8577-4b70-9789-66b70b035a7b,628.27,2024-10-19 06:15:40,Brianborough,Debit Card,0
+492be6a3-1fe4-438f-a349-9e612da37b69,258.63,2025-03-06 21:34:18,New Douglasville,Bank Transfer,0
+10854890-e6dd-46d4-9027-2741cb815627,331.57,2024-08-28 10:56:34,Hallfurt,Credit Card,0
+819c0356-1600-4bf1-a3fb-f85e5bb26289,152.75,2024-12-20 21:10:50,Port Lauren,Digital Wallet,0
+102cc1d9-9086-4fb6-9346-e2ad7b6a33af,662.86,2025-03-23 22:00:50,Georgeside,Bank Transfer,0
+cd07641d-4dbd-4689-a21e-5de355fa075b,120.75,2025-03-08 01:46:36,Martinezborough,Debit Card,0
+0f5368d6-c9ac-49c9-8942-d931d4aa4199,210.14,2024-10-21 06:11:12,East Dianetown,Digital Wallet,0
+20612d95-692d-40e5-a75b-90402373adad,503.91,2025-03-30 09:35:27,Conradview,Debit Card,0
+e4d3bcde-c95a-4bc7-88f4-8c31387545f3,371.1,2024-10-06 06:46:44,Danielleborough,Bank Transfer,1
+d152fa1c-c56f-4c7e-be8d-55a813f6f7b5,11.98,2025-01-19 05:44:07,Port Cindy,Debit Card,0
+bf66877d-3bea-4efa-b146-85f99075e824,519.4,2025-01-22 17:21:22,South Laura,Credit Card,0
+58696d09-6558-461a-b5fb-e8b7da7b3014,940.52,2025-01-03 16:54:47,Fuentesburgh,Credit Card,0
+0be6ad9c-7b0a-4afa-80b9-ffdf475602c4,936.79,2024-12-11 09:28:35,Robinsonchester,Digital Wallet,0
+295ce626-c3e1-406b-b857-ea651e394ab8,388.78,2024-12-21 04:08:52,Rebekahmouth,Bank Transfer,0
+c7d5f560-9f4b-4680-93f3-0a9712cbabac,904.25,2025-04-23 01:01:10,Greenshire,Bank Transfer,0
+935f6e5e-e1a9-421d-a974-54200a41dc2a,771.14,2024-05-07 18:31:22,Lisachester,Bank Transfer,0
+1c1db046-7543-428d-a535-02f19991badb,668.42,2024-05-13 05:30:05,Larsenport,Digital Wallet,0
+9be722e6-6d77-4734-92b1-6573802ca799,28.07,2024-12-04 23:42:42,North April,Digital Wallet,0
+46db47db-2bbf-482b-b5b7-ae414ba0b5e6,598.3,2024-06-23 08:45:50,Carterfurt,Digital Wallet,0
+7c96f6b9-1833-4f96-add1-ab77ff37684a,803.68,2025-04-05 12:51:30,Port Alexisberg,Debit Card,0
+1613166a-e28a-4d74-ba68-736bd27e35e9,271.56,2025-04-07 22:04:09,Leemouth,Digital Wallet,0
+d29b6d64-9193-4143-bf7a-761a11afee17,708.36,2025-01-04 21:53:17,Jeffreyberg,Credit Card,0
+c225ad0e-18d6-498b-bbdf-46de4c869a2f,866.2,2024-09-20 17:28:15,Lake Destinymouth,Bank Transfer,0
+507d8ac4-f1ab-4fa2-87fc-9d80a4aa6d50,187.33,2025-04-02 19:14:57,South Michaelville,Digital Wallet,0
+3e466abc-564c-4b77-ae49-7bb06c456a2a,973.04,2025-04-19 06:02:24,Port Michael,Digital Wallet,0
+faebe6e4-2996-419b-b032-c540b4fff580,896.44,2025-01-18 18:51:32,New Nicoletown,Digital Wallet,0
+4f7d0efa-1321-4632-b601-fdbb44e20d80,761.75,2025-04-04 01:53:20,Harrisonton,Bank Transfer,0
+116312d4-123d-45de-a6ab-21c28a397668,814.76,2024-06-16 11:16:17,North Tiffany,Debit Card,0
+7705d910-f8aa-4987-9840-7a2b15a903cc,590.64,2024-12-24 01:11:47,Wisetown,Debit Card,0
+c2482248-d428-4098-ae52-8653466ebb97,583.79,2024-07-08 22:11:56,New Robertberg,Debit Card,0
+4f049f41-7531-4947-a57f-4597fc055caa,606.17,2024-09-23 13:57:09,Spencerfort,Debit Card,0
+54f54c89-fed3-49b1-9750-62d2ce293fab,98.57,2025-04-14 23:12:08,Perkinston,Digital Wallet,0
+2517a016-4d01-42bf-9230-fa4d84655f07,95.35,2024-06-16 09:32:50,New Amanda,Bank Transfer,0
+aafe44bc-0227-47a0-912b-511b3c168427,349.86,2025-03-14 01:08:32,East Samanthahaven,Debit Card,0
+0cfc1c36-9215-4a5a-94be-4ae9e443e8e0,940.29,2024-08-06 12:31:45,South Lynnhaven,Debit Card,0
+ea333840-39d9-4f83-a4a1-96bcb0a05791,565.28,2024-10-02 09:56:06,Matthewburgh,Credit Card,0
+99288917-ecc5-43af-ac77-ea45b7a7c55f,356.62,2025-02-14 21:00:02,Matthewbury,Bank Transfer,1
+b05a7d5c-e5e2-41b3-919f-e371a9518f92,372.65,2024-12-31 14:52:12,East Nathaniel,Bank Transfer,0
+75181d7d-ac76-4c76-9712-94c5410986c7,116.96,2024-08-23 22:57:33,Davisport,Credit Card,0
+42d1e399-3d7c-42be-aa01-0cb2e1126f48,954.91,2024-08-18 09:33:54,Villarrealmouth,Digital Wallet,0
+d102b35b-898f-4a2e-a197-a4d9bfcfcd19,557.24,2024-11-11 03:10:09,East Joyce,Bank Transfer,0
+90d59f3f-5867-4c4b-8714-fae67c30d82e,581.66,2024-05-21 18:43:57,West Travismouth,Bank Transfer,0
+39754530-de96-4ce8-8864-8176ce6d4778,243.93,2024-10-04 05:18:54,Smithbury,Digital Wallet,0
+0f8419fb-a559-4af5-adbb-d6c812f93960,794.23,2025-02-12 17:27:33,Adamsshire,Digital Wallet,0
+80713839-7be8-450c-89df-69b74364f8c9,777.37,2025-01-17 23:23:56,Yolandastad,Digital Wallet,0
+46cb5314-6fc1-4d43-90c3-2fae8ff56d7d,436.69,2025-03-31 06:41:40,Davidfurt,Credit Card,1
+e9655fc6-9e3c-4586-baf1-043463179142,494.3,2025-04-18 05:04:03,Port Kelly,Digital Wallet,0
+f270fe00-4c07-4c7b-9afe-fafa7a80e0dc,856.63,2024-09-04 01:09:23,Barnettbury,Credit Card,0
+79fd0ab0-d413-4e65-bd9e-22bdecbf6e73,830.79,2025-02-05 11:25:21,East Andrew,Debit Card,0
+c3cba724-82fc-48e0-8b2e-b7f6c7a77be2,89.61,2024-12-14 11:27:36,Dawsonland,Credit Card,0
+9dc13d7b-007c-4a99-9bb7-e5ad88d68864,626.23,2024-08-15 20:13:56,New Edgar,Bank Transfer,0
+e949458f-918c-43b8-a227-e24864067895,949.57,2024-09-27 16:40:35,Janiceborough,Debit Card,0
+672417a7-54cb-4586-b078-65a608b4ee0a,89.4,2024-05-23 22:25:00,New Stevenshire,Debit Card,0
+9471d906-86ba-405a-8e86-17eeedfa559d,178.26,2024-11-02 10:27:34,Richardshire,Bank Transfer,0
+2de52ab9-d496-4a1d-9263-840d5bdc6843,754.79,2024-12-19 21:05:03,South Ian,Bank Transfer,0
+2fad657d-8f71-4a7d-bc7c-421bc7c17026,539.8,2024-07-09 07:43:41,Daleside,Bank Transfer,0
+a65ecbb4-43c3-4061-903f-dc569be7550d,375.17,2024-11-21 16:06:30,South Michaelshire,Digital Wallet,0
+5be44773-00b6-4444-bd35-9b3075781009,170.32,2024-11-28 19:04:36,Rojasfurt,Bank Transfer,1
+3080a73b-7686-46c3-90e0-71ce046b521c,752.62,2025-03-02 05:53:32,Adamfurt,Bank Transfer,0
+301cc5f8-5b12-4e38-9739-f05c8e45d806,456.61,2024-12-02 03:08:24,Port Timothy,Credit Card,0
+b77fd303-9a4e-4460-acaf-7201b0651427,94.58,2025-04-11 05:22:10,Castrotown,Debit Card,0
+4390d30b-38c1-4259-ba80-f4678caf3b76,31.47,2024-06-14 14:28:17,West Robin,Debit Card,0
+121c0f64-f076-41eb-b296-2e0140422e77,917.4,2025-03-06 22:21:41,Littlefort,Digital Wallet,0
+52f277da-98e0-4ddf-891a-3e977f5165a1,94.89,2024-09-28 09:19:51,New Michelleview,Bank Transfer,0
+f2405684-ea11-4602-921b-e5423a5714e0,459.68,2024-10-13 04:08:13,Melissamouth,Debit Card,0
+8c92154e-62f2-4453-9102-e1f89d84c794,769.22,2024-12-12 10:48:58,Keithbury,Debit Card,0
+f54389a0-d441-4c41-b4fc-024dcb41d5c3,785.39,2024-08-08 17:20:33,Darinbury,Debit Card,0
+5e546804-a06b-4093-9a95-d4bc32fd2f4e,810.06,2025-03-20 01:04:21,West Amberton,Debit Card,0
+d952608a-5e60-40af-9eb5-4a357290b994,315.04,2024-12-11 20:24:39,New Amyfurt,Credit Card,0
+91a82287-d65e-4a80-9af2-55d867f5efcf,747.72,2024-10-14 07:57:32,Port Tonyburgh,Debit Card,0
+11e47563-ad3c-4cdd-99e8-cb7be15ca8c3,583.46,2024-10-31 00:51:39,Jasmineville,Debit Card,0
+c83504ac-2357-4eb7-9e84-942f92e31461,817.4,2024-06-18 23:23:15,East Maria,Credit Card,0
+64e72e63-c458-48d6-b6f1-bd67a02ac6f1,410.0,2025-04-26 12:31:18,South Josephfurt,Bank Transfer,0
+ec96874f-40dd-4327-8cfe-3aa869e322bc,986.02,2024-12-23 05:12:40,Merrittbury,Credit Card,0
+51f473af-3f27-4ba6-843e-f22656342494,735.34,2025-03-04 16:38:34,Smithton,Credit Card,0
+179cdea7-a693-41bd-b935-bca6b3b18687,238.4,2025-04-10 03:10:30,New Robert,Debit Card,0
+9303db1e-c066-4d25-8014-57bd1ef715cc,12.34,2025-02-18 17:12:13,Thomaston,Digital Wallet,0
+7c744b7f-16fa-4735-bf17-d6ef17184641,581.01,2024-10-02 18:25:59,West Angelicaport,Credit Card,0
+b183b620-3ed7-452c-9c58-7ad76a70411b,229.57,2024-05-29 08:51:19,Jackieborough,Digital Wallet,0
+fc879785-952e-454a-8ee7-217beb8adbc3,27.48,2024-12-30 10:16:54,East Keithville,Debit Card,0
+0164f2f9-bfa5-41fa-aaea-c7e27e691ff9,969.33,2024-06-24 14:17:19,Nicholasstad,Debit Card,0
+cbc6a9f2-c739-4959-af92-87595b280c4d,46.96,2024-12-14 01:31:30,South Stephenshire,Credit Card,0
+c5bd5455-61c8-440a-9b15-8cb3b8f5286b,157.28,2024-10-31 02:30:17,Ruizchester,Digital Wallet,0
+55472f4a-dcd2-4698-b78e-fc8e940e4ee6,496.0,2025-01-23 01:58:54,Natalieville,Debit Card,1
+066ee019-dec1-4602-a9a1-18b8f8989370,947.3,2025-02-15 11:52:23,West Nicholas,Credit Card,0
+6723cf00-2159-4a46-9d17-666b8fea1524,359.47,2025-04-24 18:34:22,East Frederickmouth,Bank Transfer,0
+ba679b1b-1a55-4a90-894b-f7bd9e5b107f,10.19,2024-07-26 11:14:22,Brianmouth,Credit Card,0
+e92019c8-50aa-444a-830d-869bb4c865b4,796.0,2025-02-21 20:45:42,Lake Jonathan,Digital Wallet,0
+7c592339-554f-4f88-8306-d6068b8a787c,568.74,2024-12-05 17:50:37,Williammouth,Digital Wallet,0
+7b17005b-088d-4891-91e7-e1cdc6c7c341,70.29,2024-09-24 22:35:05,North Lisa,Debit Card,0
+df5bbd3e-38f4-4401-8fe1-9bea4adeb9d4,818.2,2025-02-15 13:09:12,New Alexanderbury,Credit Card,0
+bf02095f-0f62-4ee9-8980-b71c69d8c137,178.86,2024-05-16 04:16:35,North Jacquelineport,Credit Card,0
+1600cf65-1bd4-4291-8c4e-21479b78e750,969.94,2024-06-24 13:39:07,Toddshire,Bank Transfer,0
+d4c5dc68-3be4-4190-872f-5c04ac01b071,838.49,2024-06-01 12:57:17,North Courtneyville,Digital Wallet,0
+cc117c08-f531-4001-a947-16f1d30698e2,731.14,2024-11-24 23:38:43,Bennettberg,Debit Card,0
+b27e0fb7-b20d-4036-8412-23d75f89404f,892.15,2024-05-23 00:08:23,Port Adamfurt,Credit Card,0
+9682506f-99e9-404c-a75c-324c33d297f8,561.38,2024-11-10 21:28:39,South Matthewborough,Bank Transfer,0
+8d01b469-6082-4ea2-81c1-9cc36f0433db,508.1,2025-01-31 01:33:07,Port Suzannemouth,Bank Transfer,0
+de273acc-cc8f-46ef-949f-d42576f5bf86,572.04,2024-07-07 10:22:27,New Tracy,Digital Wallet,0
+e6ef7354-e1a6-4a07-8ae3-d354ae8a0b92,320.73,2024-06-22 08:58:40,Phillipsshire,Digital Wallet,0
+8d3eca35-c001-405d-ab98-e1a81901c5e5,800.06,2024-09-19 01:39:36,New Lynnmouth,Credit Card,0
+a099c881-d615-475a-94a5-903efdb736cd,554.62,2024-09-03 09:15:55,Loweryshire,Digital Wallet,0
+6d70de12-b862-4123-9f44-056095c071f1,77.9,2024-06-12 02:46:14,Matthewshire,Debit Card,0
+8ba3a351-5aaa-4147-9a78-03fad05f98f3,526.16,2024-07-24 07:37:12,Kimberlyport,Credit Card,0
+32e1b6ac-d27c-4306-a3a0-35c1e1dbfa3a,498.94,2025-01-26 09:25:56,Kennethland,Debit Card,0
+ed681ac3-9620-44a7-8b46-c9337cff3e13,797.5,2025-02-27 03:28:48,Flemingside,Bank Transfer,1
+86bb8ff2-63ce-4b35-8262-fa135a0b03a5,368.35,2025-02-26 13:17:22,Jayport,Credit Card,0
+da5a4b78-0e41-4122-bb33-bff173354f7f,552.5,2025-01-13 16:22:36,New Heatherhaven,Credit Card,0
+bc77d492-72fb-4487-a9c1-fa62ccf9e78d,46.18,2024-12-24 12:59:15,South Katherine,Debit Card,0
+439893d2-0570-4d72-805c-66b2b282bee8,458.79,2024-11-26 08:14:10,Griffinport,Digital Wallet,0
+d6123504-4b2e-410c-80bb-6f27909bc8fe,528.17,2024-05-17 02:03:47,East Yolandastad,Bank Transfer,0
+d2e6a350-f954-407b-92a0-e552a31db5da,719.33,2025-01-23 17:21:52,East Jeffrey,Credit Card,0
+1cf44828-9e8b-4a83-a37e-78201bdab683,163.45,2024-08-20 13:43:19,Hoganfurt,Digital Wallet,0
+59f636ea-8efb-4d57-bc25-de30772947d3,554.3,2025-04-26 07:03:11,West Jesse,Bank Transfer,0
+d11a492a-8655-46ab-8aa0-31dcb9f45f88,182.75,2024-11-15 02:18:29,Port Stacyport,Debit Card,0
+1a92ee83-a945-42f6-96a5-ec2e5c92e25b,934.43,2025-04-25 02:35:22,Johnsonhaven,Credit Card,0
+25855d87-cf40-4070-aee6-ce77b8668120,738.16,2025-03-27 13:53:35,Curtiston,Credit Card,0
+04e4066e-7b53-4faf-9237-f3e208cb9b4e,52.37,2024-11-15 06:23:08,North Timothy,Credit Card,0
+827b1b89-d8d5-4ecf-9df1-7efe91226858,714.88,2024-07-02 14:50:40,Cathybury,Debit Card,0
+f209df7b-f16d-4320-ab37-dafe833be510,312.41,2024-09-15 22:25:57,Garciafurt,Credit Card,0
+6ba1c9bb-a973-42a7-9f1c-2a62463a25e7,999.72,2024-07-12 10:13:28,West Michaelstad,Debit Card,0
+8124e339-5aac-48b1-85f8-1fc5dd103c92,360.83,2024-11-09 22:46:55,Susanfort,Bank Transfer,0
+90623f86-398a-40e7-953f-8f7e42787bbd,205.78,2025-01-18 11:24:29,East Francisco,Digital Wallet,0
+7d46bb78-c591-4de0-b97b-95413e5c0807,913.33,2024-05-01 18:31:52,New Brandon,Debit Card,1
+58d097aa-b064-4c62-84db-5fce2257c239,522.72,2024-06-24 05:58:24,Bryanborough,Bank Transfer,0
+a4a8bef4-d90f-488e-805f-be55f72b6f33,618.51,2024-09-07 12:36:30,Warrenfort,Debit Card,0
+d7754a0a-1e92-46c8-bc7d-d1b1894d3b4d,434.42,2024-07-27 12:04:11,Lake Douglas,Credit Card,0
+5f43e850-e011-496c-86e4-e15da55c6878,37.85,2024-10-16 11:13:03,Port Sierrafort,Bank Transfer,0
+6ad6ea16-c76d-4b5f-a2d5-bd5a38495545,162.47,2024-07-01 00:06:34,South Leonardview,Digital Wallet,0
+25537e22-ab9c-4950-8075-70daf271d13a,225.38,2025-04-22 00:04:09,Stephenmouth,Bank Transfer,0
+64fee391-1d79-4ef0-9d66-e9fb94b2bb4c,696.95,2024-09-16 16:54:40,Yolandaborough,Credit Card,0
+8b884775-9ac4-47e3-b69a-6860ffcfdc9f,185.34,2024-09-13 09:52:35,Johnnyberg,Digital Wallet,0
+a13c19c0-113f-43aa-b663-136f5252a5c0,776.64,2024-05-20 00:55:21,New Laurieville,Digital Wallet,0
+ca3294bb-c3b5-46fb-b700-9bdaadf00925,102.37,2024-08-15 11:00:07,Aliceburgh,Digital Wallet,0
+afd5d2c5-6ab5-4bc8-b135-60a619753980,5.63,2025-01-03 06:20:02,Ronaldfurt,Digital Wallet,0
+c9f7ac34-6aff-4566-9eb3-24424ce489d7,870.03,2024-11-11 20:21:26,Florestown,Bank Transfer,1
+7ecbefb2-128d-4cbd-922d-d8b568273f54,741.03,2024-10-06 05:25:32,East Sarah,Credit Card,0
+ad57a228-b153-4c7e-bbc3-e3b10ff26739,645.53,2024-09-07 21:13:40,Jonathanstad,Credit Card,0
+f6201f88-ff0b-4946-a534-3aa59d6617c0,141.78,2025-01-25 08:33:24,Benjaminmouth,Bank Transfer,0
+972b8d71-c864-4cae-9428-a8d45c41bab2,872.25,2024-08-14 01:34:10,Port Alec,Bank Transfer,0
+513a3585-e483-402c-bae5-0243363c0898,871.59,2024-07-28 07:24:58,Jeremiahburgh,Debit Card,0
+a6cff14b-0a6f-4fb4-a492-77509ae80131,246.1,2025-01-07 01:19:15,New Roger,Bank Transfer,0
+4b96ad5d-34f0-4c7b-b332-018331349339,293.92,2024-05-17 06:33:52,East Nathanmouth,Debit Card,0
+f0cdfd7b-f185-4ef7-84df-806272e2afe5,745.69,2025-03-06 06:09:08,Melindaport,Credit Card,0
+fcdb6c37-f75f-46ab-aa47-6db23f4ef55f,726.37,2024-07-13 03:20:53,East Brianbury,Credit Card,0
+0113ab7d-e2f4-45de-b1ac-a10b104dfc07,116.75,2024-10-04 10:27:50,Colechester,Bank Transfer,0
+da56aa34-3ddc-4bee-97b8-b4e855e8ba7e,862.5,2024-06-23 14:27:47,Lake Andrew,Credit Card,0
+5dbda2e7-af20-46aa-bb05-5961a587556a,493.13,2024-12-31 15:47:59,Port Joseph,Credit Card,0
+2a1c4171-1733-4b89-a2c5-fde3810c6e24,319.66,2025-04-16 12:38:06,North Catherineview,Bank Transfer,0
+e0dcce86-cf99-41d9-9cf1-886835ec9ecd,620.69,2024-11-04 04:59:34,South Susan,Debit Card,0
+b5295121-0ff4-43e7-b644-6dbdab403bc0,153.39,2025-04-03 13:22:55,New William,Debit Card,0
+36b7400c-261b-4aeb-aa82-9c573901c74f,867.21,2025-03-01 04:02:40,Wintersside,Credit Card,0
+61f400cd-ab7b-4a40-9e55-15688354da37,301.58,2025-02-03 20:59:41,South Jeremyview,Credit Card,0
+88df36db-d25a-46a8-a5da-dc70167b8f59,342.48,2024-07-27 01:14:09,Reesechester,Credit Card,0
+0c1841b3-4a36-499b-aef0-04fadcea9aa7,27.34,2024-06-27 18:50:28,East Danielle,Bank Transfer,0
+77f7edd6-d2f0-4047-89c5-482b02ec82e1,974.42,2025-04-25 15:03:14,Lindamouth,Digital Wallet,0
+444a32d4-4d5d-45e4-88d5-0f2fd059e4c1,182.25,2024-05-01 19:56:55,Port Derrick,Credit Card,0
+9cf5c5a7-3572-4bef-806e-5580048c1618,613.8,2025-01-29 08:18:54,West Carmen,Bank Transfer,0
+8ac349a1-b463-45c5-92a6-4e5a58fa8a35,533.93,2025-04-12 09:25:48,Jamestown,Bank Transfer,0
+d4a0142d-4da1-423b-86b3-b861c81225af,281.65,2024-10-24 09:31:17,New Timothyborough,Digital Wallet,0
+97515dc9-70ca-4dca-ac01-8c7b6b401414,771.5,2024-11-15 19:11:14,Robertstad,Bank Transfer,0
+b7db9386-867d-4bb5-b236-e981ed72049f,6.06,2025-02-06 07:57:54,West Raymond,Debit Card,0
+2eeb2681-917e-463c-b541-298befdae699,255.39,2024-08-27 05:40:21,Lichester,Bank Transfer,0
+1a01e1af-7d40-401c-8037-37a6f77e9294,775.75,2024-11-24 09:51:22,Sotofort,Digital Wallet,0
+50507997-4ab1-40cc-ae98-0c8b7d048e00,111.52,2024-12-25 14:54:55,Davidshire,Digital Wallet,0
+63fabf75-9837-4eaf-be9a-8f9eace56963,900.12,2024-06-24 02:08:31,Lake Rebecca,Debit Card,0
+defe41b1-afd0-465b-ad07-dece7b4eeedc,435.39,2024-06-28 00:59:48,Lindseymouth,Digital Wallet,0
+72182724-d68a-49cb-9750-13623ca43eab,174.03,2024-05-29 02:01:28,South Theodoreborough,Credit Card,0

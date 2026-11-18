@@ -1,0 +1,68 @@
+{
+  "model_name": "Random Forest",
+  "feature_columns": [
+    "amount",
+    "customer_location",
+    "payment_method",
+    "transaction_hour",
+    "transaction_day",
+    "transaction_month",
+    "transaction_weekday"
+  ],
+  "input_columns": [
+    "amount",
+    "customer_location",
+    "payment_method",
+    "transaction_hour",
+    "transaction_day",
+    "transaction_month",
+    "transaction_weekday"
+  ],
+  "class_labels": {
+    "0": "Legitimate",
+    "1": "Fraud"
+  },
+  "metrics": [
+    {
+      "model": "Random Forest",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    },
+    {
+      "model": "Logistic Regression",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    },
+    {
+      "model": "SVM",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    },
+    {
+      "model": "KNN",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    },
+    {
+      "model": "Decision Tree",
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "roc_auc": 1.0
+    }
+  ],
+  "note": "Other model features are left missing and handled by the fitted imputers."
+}
