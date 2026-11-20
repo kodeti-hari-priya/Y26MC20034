@@ -7,12 +7,23 @@ import pandas as pd
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
+from fastapi.middleware.cors import CORSMiddleware
 
 ROOT = Path(__file__).resolve().parents[1]
 MODEL_PATH = ROOT / "artifacts" / "fraud_model.joblib"
 SCHEMA_PATH = ROOT / "artifacts" / "model_schema.json"
 
 app = FastAPI(title="Financial Transaction Fraud Detection API")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "https://y26-mc-20034.vercel.app"
+    ],
+    allow_credentials=False,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Enable frontend-backend communication
 app.add_middleware(
